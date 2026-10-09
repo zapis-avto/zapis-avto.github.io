@@ -1,0 +1,39 @@
+{
+  "name": "Глосс Авто",
+  "short_name": "Глосс Авто",
+  "description": "Онлайн-запись: Глосс Авто",
+  "lang": "ru",
+  "id": "/gloss-avto/",
+  "start_url": "/gloss-avto/",
+  "scope": "/gloss-avto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02030a",
+  "theme_color": "#02030a",
+  "icons": [
+    {
+      "src": "/gloss-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gloss-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/gloss-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gloss-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
