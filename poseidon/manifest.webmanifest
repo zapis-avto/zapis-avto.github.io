@@ -1,0 +1,39 @@
+{
+  "name": "Посейдон",
+  "short_name": "Посейдон",
+  "description": "Онлайн-запись: Посейдон",
+  "lang": "ru",
+  "id": "/poseidon/",
+  "start_url": "/poseidon/",
+  "scope": "/poseidon",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000506",
+  "theme_color": "#000506",
+  "icons": [
+    {
+      "src": "/poseidon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/poseidon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/poseidon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/poseidon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

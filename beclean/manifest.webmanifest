@@ -1,0 +1,39 @@
+{
+  "name": "BeClean",
+  "short_name": "BeClean",
+  "description": "Онлайн-запись: BeClean",
+  "lang": "ru",
+  "id": "/beclean/",
+  "start_url": "/beclean/",
+  "scope": "/beclean",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#010503",
+  "theme_color": "#010503",
+  "icons": [
+    {
+      "src": "/beclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/beclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/beclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

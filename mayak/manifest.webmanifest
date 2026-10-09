@@ -1,0 +1,39 @@
+{
+  "name": "Маяк",
+  "short_name": "Маяк",
+  "description": "Онлайн-запись: Маяк",
+  "lang": "ru",
+  "id": "/mayak/",
+  "start_url": "/mayak/",
+  "scope": "/mayak",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02060f",
+  "theme_color": "#02060f",
+  "icons": [
+    {
+      "src": "/mayak/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mayak/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mayak/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mayak/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

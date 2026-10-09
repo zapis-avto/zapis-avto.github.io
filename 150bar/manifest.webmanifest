@@ -1,0 +1,39 @@
+{
+  "name": "150 bar",
+  "short_name": "150 bar",
+  "description": "Онлайн-запись: 150 bar",
+  "lang": "ru",
+  "id": "/150bar/",
+  "start_url": "/150bar/",
+  "scope": "/150bar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060101",
+  "theme_color": "#060101",
+  "icons": [
+    {
+      "src": "/150bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/150bar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/150bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/150bar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

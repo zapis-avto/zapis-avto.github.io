@@ -1,0 +1,39 @@
+{
+  "name": "А2",
+  "short_name": "А2",
+  "description": "Онлайн-запись: А2",
+  "lang": "ru",
+  "id": "/a2/",
+  "start_url": "/a2/",
+  "scope": "/a2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040404",
+  "theme_color": "#040404",
+  "icons": [
+    {
+      "src": "/a2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/a2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/a2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
