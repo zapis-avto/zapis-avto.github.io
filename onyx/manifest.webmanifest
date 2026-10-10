@@ -1,0 +1,39 @@
+{
+  "name": "Onyx",
+  "short_name": "Onyx",
+  "description": "Онлайн-запись: Onyx",
+  "lang": "ru",
+  "id": "/onyx/",
+  "start_url": "/onyx/",
+  "scope": "/onyx",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#01070a",
+  "theme_color": "#01070a",
+  "icons": [
+    {
+      "src": "/onyx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/onyx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/onyx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/onyx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

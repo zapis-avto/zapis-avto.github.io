@@ -1,0 +1,39 @@
+{
+  "name": "Sever DV",
+  "short_name": "Sever DV",
+  "description": "Онлайн-запись: Sever DV",
+  "lang": "ru",
+  "id": "/sever-dv/",
+  "start_url": "/sever-dv/",
+  "scope": "/sever-dv",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02060f",
+  "theme_color": "#02060f",
+  "icons": [
+    {
+      "src": "/sever-dv/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sever-dv/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/sever-dv/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sever-dv/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

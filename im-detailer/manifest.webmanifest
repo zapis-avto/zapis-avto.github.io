@@ -1,0 +1,39 @@
+{
+  "name": "Ай Эм Детейлер",
+  "short_name": "АйЭмДетейлер",
+  "description": "Онлайн-запись: Ай Эм Детейлер",
+  "lang": "ru",
+  "id": "/im-detailer/",
+  "start_url": "/im-detailer/",
+  "scope": "/im-detailer",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#02020a",
+  "theme_color": "#02020a",
+  "icons": [
+    {
+      "src": "/im-detailer/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/im-detailer/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/im-detailer/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/im-detailer/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

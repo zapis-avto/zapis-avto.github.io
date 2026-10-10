@@ -1,0 +1,39 @@
+{
+  "name": "CarCity",
+  "short_name": "CarCity",
+  "description": "Онлайн-запись: CarCity",
+  "lang": "ru",
+  "id": "/carcity/",
+  "start_url": "/carcity/",
+  "scope": "/carcity",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00050a",
+  "theme_color": "#00050a",
+  "icons": [
+    {
+      "src": "/carcity/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carcity/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/carcity/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carcity/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

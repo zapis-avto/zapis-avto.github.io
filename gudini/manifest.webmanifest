@@ -1,0 +1,39 @@
+{
+  "name": "Гудини детейлинг",
+  "short_name": "Гудини",
+  "description": "Онлайн-запись: Гудини детейлинг",
+  "lang": "ru",
+  "id": "/gudini/",
+  "start_url": "/gudini/",
+  "scope": "/gudini",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040404",
+  "theme_color": "#040404",
+  "icons": [
+    {
+      "src": "/gudini/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gudini/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/gudini/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gudini/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

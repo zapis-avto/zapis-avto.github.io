@@ -1,0 +1,39 @@
+{
+  "name": "Car security",
+  "short_name": "Car security",
+  "description": "Онлайн-запись: Car security",
+  "lang": "ru",
+  "id": "/car-security/",
+  "start_url": "/car-security/",
+  "scope": "/car-security",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#020406",
+  "theme_color": "#020406",
+  "icons": [
+    {
+      "src": "/car-security/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-security/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/car-security/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-security/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

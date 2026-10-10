@@ -1,0 +1,39 @@
+{
+  "name": "Короче Детейлинг",
+  "short_name": "Короче",
+  "description": "Онлайн-запись: Короче Детейлинг",
+  "lang": "ru",
+  "id": "/koroche/",
+  "start_url": "/koroche/",
+  "scope": "/koroche",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060300",
+  "theme_color": "#060300",
+  "icons": [
+    {
+      "src": "/koroche/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koroche/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/koroche/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koroche/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

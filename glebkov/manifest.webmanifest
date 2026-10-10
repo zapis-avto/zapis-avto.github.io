@@ -1,0 +1,39 @@
+{
+  "name": "Глебков Детейлинг",
+  "short_name": "Глебков",
+  "description": "Онлайн-запись: Глебков Детейлинг",
+  "lang": "ru",
+  "id": "/glebkov/",
+  "start_url": "/glebkov/",
+  "scope": "/glebkov",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000306",
+  "theme_color": "#000306",
+  "icons": [
+    {
+      "src": "/glebkov/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/glebkov/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/glebkov/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/glebkov/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

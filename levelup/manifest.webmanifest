@@ -1,0 +1,39 @@
+{
+  "name": "LevelUp",
+  "short_name": "LevelUp",
+  "description": "Онлайн-запись: LevelUp",
+  "lang": "ru",
+  "id": "/levelup/",
+  "start_url": "/levelup/",
+  "scope": "/levelup",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060200",
+  "theme_color": "#060200",
+  "icons": [
+    {
+      "src": "/levelup/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/levelup/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/levelup/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/levelup/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

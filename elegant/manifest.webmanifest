@@ -1,0 +1,39 @@
+{
+  "name": "Элегант",
+  "short_name": "Элегант",
+  "description": "Онлайн-запись: Элегант",
+  "lang": "ru",
+  "id": "/elegant/",
+  "start_url": "/elegant/",
+  "scope": "/elegant",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050403",
+  "theme_color": "#050403",
+  "icons": [
+    {
+      "src": "/elegant/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/elegant/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/elegant/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/elegant/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Автопилот27",
+  "short_name": "Автопилот27",
+  "description": "Онлайн-запись: Автопилот27",
+  "lang": "ru",
+  "id": "/avtopilot27/",
+  "start_url": "/avtopilot27/",
+  "scope": "/avtopilot27",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030500",
+  "theme_color": "#030500",
+  "icons": [
+    {
+      "src": "/avtopilot27/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtopilot27/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtopilot27/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtopilot27/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

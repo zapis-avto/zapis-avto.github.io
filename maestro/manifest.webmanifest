@@ -1,0 +1,39 @@
+{
+  "name": "Маэстро",
+  "short_name": "Маэстро",
+  "description": "Онлайн-запись: Маэстро",
+  "lang": "ru",
+  "id": "/maestro/",
+  "start_url": "/maestro/",
+  "scope": "/maestro",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030108",
+  "theme_color": "#030108",
+  "icons": [
+    {
+      "src": "/maestro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maestro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maestro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maestro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Автоледи",
+  "short_name": "Автоледи",
+  "description": "Онлайн-запись: Автоледи",
+  "lang": "ru",
+  "id": "/avtoledi/",
+  "start_url": "/avtoledi/",
+  "scope": "/avtoledi",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070106",
+  "theme_color": "#070106",
+  "icons": [
+    {
+      "src": "/avtoledi/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoledi/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtoledi/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoledi/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

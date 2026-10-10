@@ -1,0 +1,39 @@
+{
+  "name": "Restart avto",
+  "short_name": "Restart avto",
+  "description": "Онлайн-запись: Restart avto",
+  "lang": "ru",
+  "id": "/restart-avto/",
+  "start_url": "/restart-avto/",
+  "scope": "/restart-avto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000502",
+  "theme_color": "#000502",
+  "icons": [
+    {
+      "src": "/restart-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/restart-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/restart-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/restart-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
