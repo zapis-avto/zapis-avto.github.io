@@ -1,0 +1,39 @@
+{
+  "name": "Master_cleaning_khv",
+  "short_name": "Master_clean",
+  "description": "Онлайн-запись: Master_cleaning_khv",
+  "lang": "ru",
+  "id": "/master-cleaning-khv/",
+  "start_url": "/master-cleaning-khv/",
+  "scope": "/master-cleaning-khv",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030908",
+  "theme_color": "#030908",
+  "icons": [
+    {
+      "src": "/master-cleaning-khv/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/master-cleaning-khv/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/master-cleaning-khv/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/master-cleaning-khv/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

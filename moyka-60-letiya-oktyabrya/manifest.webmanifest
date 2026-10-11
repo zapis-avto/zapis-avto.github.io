@@ -1,0 +1,39 @@
+{
+  "name": "Автомоечный комплекс №1",
+  "short_name": "Автомойка",
+  "description": "Онлайн-запись: Автомоечный комплекс №1",
+  "lang": "ru",
+  "id": "/moyka-60-letiya-oktyabrya/",
+  "start_url": "/moyka-60-letiya-oktyabrya/",
+  "scope": "/moyka-60-letiya-oktyabrya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/moyka-60-letiya-oktyabrya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-60-letiya-oktyabrya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-60-letiya-oktyabrya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-60-letiya-oktyabrya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

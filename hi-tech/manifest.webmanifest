@@ -1,0 +1,39 @@
+{
+  "name": "Hi-tech",
+  "short_name": "Hi-tech",
+  "description": "Онлайн-запись: Hi-tech",
+  "lang": "ru",
+  "id": "/hi-tech/",
+  "start_url": "/hi-tech/",
+  "scope": "/hi-tech",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/hi-tech/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hi-tech/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/hi-tech/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hi-tech/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

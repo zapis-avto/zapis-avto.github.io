@@ -1,0 +1,39 @@
+{
+  "name": "Красная панда",
+  "short_name": "Красная",
+  "description": "Онлайн-запись: Красная панда",
+  "lang": "ru",
+  "id": "/krasnaya-panda/",
+  "start_url": "/krasnaya-panda/",
+  "scope": "/krasnaya-panda",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/krasnaya-panda/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/krasnaya-panda/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/krasnaya-panda/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/krasnaya-panda/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Автокомплекс",
+  "short_name": "Автокомплекс",
+  "description": "Онлайн-запись: Автокомплекс",
+  "lang": "ru",
+  "id": "/avtokompleks-millera/",
+  "start_url": "/avtokompleks-millera/",
+  "scope": "/avtokompleks-millera",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/avtokompleks-millera/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-millera/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtokompleks-millera/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-millera/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "111 Автодуш",
+  "short_name": "111 Автодуш",
+  "description": "Онлайн-запись: 111 Автодуш",
+  "lang": "ru",
+  "id": "/111-avtodush/",
+  "start_url": "/111-avtodush/",
+  "scope": "/111-avtodush",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/111-avtodush/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/111-avtodush/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/111-avtodush/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/111-avtodush/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

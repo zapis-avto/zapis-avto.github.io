@@ -1,0 +1,39 @@
+{
+  "name": "Amg",
+  "short_name": "Amg",
+  "description": "Онлайн-запись: Amg",
+  "lang": "ru",
+  "id": "/amg/",
+  "start_url": "/amg/",
+  "scope": "/amg",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/amg/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/amg/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/amg/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/amg/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

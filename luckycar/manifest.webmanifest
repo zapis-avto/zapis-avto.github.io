@@ -1,0 +1,39 @@
+{
+  "name": "LuckyCar",
+  "short_name": "LuckyCar",
+  "description": "Онлайн-запись: LuckyCar",
+  "lang": "ru",
+  "id": "/luckycar/",
+  "start_url": "/luckycar/",
+  "scope": "/luckycar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/luckycar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/luckycar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/luckycar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/luckycar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

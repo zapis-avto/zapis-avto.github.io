@@ -1,0 +1,39 @@
+{
+  "name": "Автомойка",
+  "short_name": "Автомойка",
+  "description": "Онлайн-запись: Автомойка",
+  "lang": "ru",
+  "id": "/moyka-1-ya-zapadnaya/",
+  "start_url": "/moyka-1-ya-zapadnaya/",
+  "scope": "/moyka-1-ya-zapadnaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/moyka-1-ya-zapadnaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-1-ya-zapadnaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-1-ya-zapadnaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-1-ya-zapadnaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

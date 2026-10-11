@@ -1,0 +1,39 @@
+{
+  "name": "100Cars",
+  "short_name": "100Cars",
+  "description": "Онлайн-запись: 100Cars",
+  "lang": "ru",
+  "id": "/100cars/",
+  "start_url": "/100cars/",
+  "scope": "/100cars",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040309",
+  "theme_color": "#040309",
+  "icons": [
+    {
+      "src": "/100cars/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/100cars/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/100cars/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/100cars/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

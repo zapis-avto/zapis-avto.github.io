@@ -1,0 +1,39 @@
+{
+  "name": "Автомоечный комплекс",
+  "short_name": "Автомойка",
+  "description": "Онлайн-запись: Автомоечный комплекс",
+  "lang": "ru",
+  "id": "/moyka-vostochnoe/",
+  "start_url": "/moyka-vostochnoe/",
+  "scope": "/moyka-vostochnoe",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/moyka-vostochnoe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-vostochnoe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-vostochnoe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-vostochnoe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

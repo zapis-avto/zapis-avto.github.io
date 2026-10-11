@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice">
+  <!-- Временная иллюстрация: машина в боксе. Замените фотографией: положите hero.jpg в эту папку и укажите его в tenant.json. -->
+  <defs>
+    <linearGradient id="ceil" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#060f05"/><stop offset="1" stop-color="#10260d"/></linearGradient>
+    <linearGradient id="backwall" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#133010"/><stop offset="1" stop-color="#071306"/></linearGradient>
+    <linearGradient id="sideL" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#020602"/><stop offset="1" stop-color="#0d220b"/></linearGradient>
+    <linearGradient id="sideR" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#020602"/><stop offset="1" stop-color="#0d220b"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="471.5" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c220a"/><stop offset="0.35" stop-color="#050e04"/><stop offset="1" stop-color="#020301"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="471.5" x2="0" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.62"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.3"/><stop offset="1" stop-color="#fff" stop-opacity="0.08"/>
+    </linearGradient>
+    <mask id="floorMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1600" height="1000">
+      <rect x="0" y="471.5" width="1600" height="528.5" fill="url(#fade)"/>
+    </mask>
+    <radialGradient id="haze" cx="800" cy="345" r="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#74ff5a" stop-opacity="0.3"/><stop offset="0.5" stop-color="#64ff46" stop-opacity="0.1"/><stop offset="1" stop-color="#64ff46" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.42" r="0.75"><stop offset="0.55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity="0.78"/></radialGradient>
+    <filter id="soft" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="5"/></filter>
+    <filter id="wide" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="24"/></filter>
+    <filter id="wet" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="2.4 6"/></filter>
+    <filter id="shade" x="-200" y="-200" width="2000" height="1400" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="14"/></filter>
+    <linearGradient id="body" x1="0" y1="358.2" x2="0" y2="573.7" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3b6f34"/><stop offset="0.16" stop-color="#173314"/><stop offset="0.5" stop-color="#0a1709"/><stop offset="1" stop-color="#040803"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="364.9" x2="0" y2="431.4" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7ad66c"/><stop offset="0.3" stop-color="#2b5f25"/><stop offset="1" stop-color="#081407"/>
+    </linearGradient>
+    <linearGradient id="hood" x1="0" y1="430" x2="0" y2="462.9" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0c1c0a"/><stop offset="0.4" stop-color="#56a84a"/><stop offset="0.58" stop-color="#21491d"/><stop offset="1" stop-color="#0d1d0b"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="800" y1="0" x2="955.8" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#edffea" stop-opacity="0.95"/><stop offset="0.7" stop-color="#d4ffcf" stop-opacity="0.6"/><stop offset="1" stop-color="#d4ffcf" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="roof" x1="800" y1="0" x2="903.8" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.6" stop-color="#dbffd6" stop-opacity="0.85"/><stop offset="1" stop-color="#dbffd6" stop-opacity="0.15"/>
+    </linearGradient>
+    <radialGradient id="beam" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e3ffdc" stop-opacity="0.75"/><stop offset="0.4" stop-color="#81ff6a" stop-opacity="0.3"/><stop offset="1" stop-color="#64ff46" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="carFade" x1="0" y1="601.3" x2="0" y2="783.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.5"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="carMask" maskUnits="userSpaceOnUse" x="0" y="0" width="1600" height="1000">
+      <rect x="0" y="601.3" width="1600" height="190.4" fill="url(#carFade)"/>
+    </mask>
+    <g id="tubes" fill="#f1ffee"><polygon points="-20.3,-71.8 1620.3,-71.8 1620.3,-92.3 -20.3,-92.3" opacity="0.95"/><polygon points="200,50.8 1400,50.8 1400,35.8 200,35.8" opacity="0.83"/><polygon points="327,121.6 1273,121.6 1273,109.7 327,109.7" opacity="0.72"/><polygon points="409.6,167.6 1190.4,167.6 1190.4,157.8 409.6,157.8" opacity="0.61"/><polygon points="467.7,199.9 1132.3,199.9 1132.3,191.6 467.7,191.6" opacity="0.50"/><polygon points="510.7,223.9 1089.3,223.9 1089.3,216.7 510.7,216.7" opacity="0.39"/><polygon points="-1480.2,-382.2 501.8,284.7 502.8,281.8 -1472.7,-404.3" opacity="0.68"/><polygon points="3072.7,-404.3 1097.2,281.8 1098.2,284.7 3080.2,-382.2" opacity="0.68"/><polygon points="554.2,285.3 1045.8,285.3 1045.8,281.2 554.2,281.2" opacity="0.30"/><polygon points="556.3,454.2 556.3,283.2 552.2,283.2 552.2,454.2" opacity="0.30"/><polygon points="1047.8,454.2 1047.8,283.2 1043.7,283.2 1043.7,454.2" opacity="0.30"/><polygon points="-1474.9,978.8 502.5,462.7 502.1,461 -1478.1,966.5" opacity="0.68"/><polygon points="3078.1,966.5 1097.9,461 1097.5,462.7 3074.9,978.8" opacity="0.68"/></g>
+    <g id="tubesLow" fill="#d5ffcf"><polygon points="200,1151.7 1400,1151.7 1400,1134.9 200,1134.9" opacity="0.83"/><polygon points="327,989.4 1273,989.4 1273,976.2 327,976.2" opacity="0.72"/><polygon points="409.6,883.8 1190.4,883.8 1190.4,872.9 409.6,872.9" opacity="0.61"/><polygon points="467.7,809.7 1132.3,809.7 1132.3,800.3 467.7,800.3" opacity="0.50"/><polygon points="510.7,754.7 1089.3,754.7 1089.3,746.6 510.7,746.6" opacity="0.39"/><polygon points="-1467.6,2496.3 503.5,661.1 501.2,658.6 -1485.3,2477.2" opacity="0.68"/><polygon points="3085.3,2477.2 1098.8,658.6 1096.5,661.1 3067.6,2496.3" opacity="0.68"/><polygon points="554.2,662.2 1045.8,662.2 1045.8,657.5 554.2,657.5" opacity="0.30"/><polygon points="551.9,488.8 551.9,659.8 556.6,659.8 556.6,488.8" opacity="0.30"/><polygon points="1043.4,488.8 1043.4,659.8 1048.1,659.8 1048.1,488.8" opacity="0.30"/><polygon points="-1474.3,1127.7 502.6,482.1 502,480.3 -1478.7,1114.1" opacity="0.68"/><polygon points="3078.7,1114.1 1098,480.3 1097.4,482.1 3074.3,1127.7" opacity="0.68"/></g>
+    <g id="half">
+      <rect x="914.6" y="514.8" width="46.4" height="86.5" rx="12.1" fill="#030603"/>
+      <rect x="955.8" y="525.2" width="3.8" height="69.2" rx="2" fill="#a8ff9c" opacity="0.22"/>
+      <path d="M938.5 423.1C952.3 413 973.1 412.3 978.3 419.6C979.3 426.2 969.6 430.7 945.4 430.7Z" fill="url(#body)"/>
+      <path d="M938.5 423.1C952.3 413 973.1 412.3 978.3 419.6" fill="none" stroke="#d4ffcf" stroke-opacity="0.7" stroke-width="1.4"/>
+      <path d="M797.9 358.2C834.6 357.3 865.8 359 879.6 363.4C890 366.8 896.1 374.6 902.1 385L929.5 426.9C938.5 430.3 950.9 434.3 956.8 445.6C962 456 963 473.3 962.7 490.6L960.6 539C959.6 554.6 954.4 566.7 938.5 571.6L797.9 573.3Z" fill="url(#body)"/>
+      <path d="M797.9 364.9C834.6 364.1 862.3 365.6 876.2 369.4C884.8 372.2 890 378.1 894.5 386L921.2 426.2C886.5 430.3 834.6 431.4 797.9 431.4Z" fill="url(#glass)"/>
+      <path d="M817.3 366L841.5 366.3L817.3 430L797.9 430.7L797.9 376.3Z" fill="#d6ffcf" opacity="0.1"/>
+      <path d="M862.3 367.7L871 369.4L879.6 428.3L865.8 429.1Z" fill="#d6ffcf" opacity="0.13"/>
+      <path d="M797.9 431.4C834.6 431.4 886.5 430.3 924.6 427.2C940.2 430.9 952 436.1 956.1 445.6C938.5 456.3 869.2 462.9 797.9 463.9Z" fill="url(#hood)"/>
+      <path d="M834.6 431C841.5 442.1 848.5 452.5 851.9 461.8" fill="none" stroke="#020902" stroke-opacity="0.55" stroke-width="1.6"/>
+      <path d="M800 463.9C869.2 462.9 938.5 456.3 956.1 445.6" fill="none" stroke="url(#edge)" stroke-width="2"/>
+      <path d="M797.9 479.2L851.9 479.2L862.7 497.5L846.7 532.1L797.9 532.1Z" fill="#030802" stroke="#9ce88f" stroke-opacity="0.32" stroke-width="1.2"/>
+      <path d="M800 521.7L851.1 521.7M800 511.3L855.6 511.3M800 501L860 501M800 490.6L860.2 490.6" fill="none" stroke="#1e401a" stroke-width="2"/>
+      <path d="M876.2 544.2L946.3 538.7L939.3 561.2L881.3 562.9Z" fill="#010501"/>
+      <path d="M869.2 471.2L949.2 464.3C956.1 466.3 957.2 474.7 953.7 480.2L876.2 484C871 481.6 868.5 476 869.2 471.2Z" fill="#050c04" stroke="#7ccf6f" stroke-opacity="0.35" stroke-width="1"/>
+      <path d="M800 570.9L936.7 569.2" fill="none" stroke="#9ce88f" stroke-opacity="0.3" stroke-width="1.4"/>
+      <path d="M800 358.2C834.6 357.3 865.8 359 879.6 363.4C890 366.8 896.1 374.6 902.1 385" fill="none" stroke="url(#roof)" stroke-width="2.6" stroke-linecap="round"/>
+      <path d="M902.1 385L929.5 426.9C938.5 430.3 950.9 434.3 956.8 445.6C962 456 963 473.3 962.7 490.6L960.6 539" fill="none" stroke="#b3ffa9" stroke-opacity="0.36" stroke-width="1.5"/>
+      <path d="M874.8 473.3L946.8 467L952 477.4" fill="none" stroke="#c6ffbc" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" opacity="0.5" filter="url(#soft)"/>
+      <path d="M874.8 473.3L946.8 467L952 477.4" fill="none" stroke="#f5fff4" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g id="car" transform="translate(0 0)">
+      <use xlink:href="#half" href="#half"/>
+      <use xlink:href="#half" href="#half" transform="translate(1600 0) scale(-1 1)"/>
+    </g>
+    
+  </defs>
+
+  <rect width="1600" height="1000" fill="#020902"/>
+  <polygon points="-1780,-845 3380,-845 1097.7,243.1 502.3,243.1" fill="url(#ceil)"/>
+  <polygon points="-1780,-845 502.3,243.1 502.3,471.5 -1780,1135" fill="url(#sideL)"/>
+  <polygon points="3380,-845 1097.7,243.1 1097.7,471.5 3380,1135" fill="url(#sideR)"/>
+  <rect x="502.3" y="243.1" width="595.4" height="228.5" fill="url(#backwall)"/>
+  <polygon points="502.3,471.5 1097.7,471.5 3380,1135 -1780,1135" fill="url(#floor)"/>
+  <g fill="#64ff46" filter="url(#soft)" opacity="0.9"><polygon points="-9,1055.9 694.2,472.7 691.2,469 -32.2,1027"/><polygon points="1632.2,1027 908.8,469 905.8,472.7 1609,1055.9"/></g><g fill="#e0ffdb" opacity="0.8"><polygon points="-9,1055.9 694.2,472.7 691.2,469 -32.2,1027"/><polygon points="1632.2,1027 908.8,469 905.8,472.7 1609,1055.9"/></g>
+
+  <!-- Отражения света в глянцевом полу -->
+  <g mask="url(#floorMask)">
+    <g filter="url(#wide)" opacity="0.5"><use xlink:href="#tubesLow" href="#tubesLow"/></g>
+    <g filter="url(#wet)"><use xlink:href="#tubesLow" href="#tubesLow"/></g>
+  </g>
+
+  <!-- Свет -->
+  <g filter="url(#wide)" opacity="0.75" fill="#64ff46"><use xlink:href="#tubes" href="#tubes"/></g>
+  <g filter="url(#soft)" opacity="0.9"><use xlink:href="#tubes" href="#tubes"/></g>
+  <use xlink:href="#tubes" href="#tubes"/>
+  <rect width="1600" height="1000" fill="url(#haze)"/>
+  
+
+  <!-- Машина, её тень и отражение -->
+  <ellipse cx="800" cy="605.3" rx="193.8" ry="17.3" fill="#000" opacity="0.92" filter="url(#shade)"/>
+  <g mask="url(#carMask)" filter="url(#wet)">
+    <use xlink:href="#car" href="#car" transform="translate(0 1202.7) scale(1 -1)"/>
+  </g>
+  <ellipse cx="913.4" cy="474.1" rx="107.3" ry="51.9" fill="url(#beam)" opacity="0.55"/>
+  <ellipse cx="686.6" cy="474.1" rx="107.3" ry="51.9" fill="url(#beam)" opacity="0.55"/>
+  <use xlink:href="#car" href="#car"/>
+  <g fill="#81ff6a" filter="url(#soft)" opacity="0.9"><path d="M932.1 278.9Q932.1 299 952.2 299Q932.1 299 932.1 319Q932.1 299 912.1 299Q932.1 299 932.1 278.9Z"/><path d="M1049.9 275.9Q1049.9 291.4 1065.4 291.4Q1049.9 291.4 1049.9 306.9Q1049.9 291.4 1034.4 291.4Q1049.9 291.4 1049.9 275.9Z"/><path d="M759.3 424.3Q759.3 446.6 781.5 446.6Q759.3 446.6 759.3 468.9Q759.3 446.6 737 446.6Q759.3 446.6 759.3 424.3Z"/><path d="M604.9 109.6Q604.9 125.7 621 125.7Q604.9 125.7 604.9 141.8Q604.9 125.7 588.7 125.7Q604.9 125.7 604.9 109.6Z"/><path d="M1071.1 497.5Q1071.1 514.8 1088.5 514.8Q1071.1 514.8 1071.1 532.2Q1071.1 514.8 1053.8 514.8Q1071.1 514.8 1071.1 497.5Z"/><path d="M945.9 264.8Q945.9 282.7 963.9 282.7Q945.9 282.7 945.9 300.7Q945.9 282.7 928 282.7Q945.9 282.7 945.9 264.8Z"/><path d="M634.4 218Q634.4 234.9 651.3 234.9Q634.4 234.9 634.4 251.9Q634.4 234.9 617.4 234.9Q634.4 234.9 634.4 218Z"/><path d="M947.1 263.9Q947.1 297.4 980.6 297.4Q947.1 297.4 947.1 330.8Q947.1 297.4 913.7 297.4Q947.1 297.4 947.1 263.9Z"/><path d="M564.7 260.6Q564.7 300.4 604.5 300.4Q564.7 300.4 564.7 340.2Q564.7 300.4 524.9 300.4Q564.7 300.4 564.7 260.6Z"/></g><g fill="#fff"><path d="M932.1 278.9Q932.1 299 952.2 299Q932.1 299 932.1 319Q932.1 299 912.1 299Q932.1 299 932.1 278.9Z"/><path d="M1049.9 275.9Q1049.9 291.4 1065.4 291.4Q1049.9 291.4 1049.9 306.9Q1049.9 291.4 1034.4 291.4Q1049.9 291.4 1049.9 275.9Z"/><path d="M759.3 424.3Q759.3 446.6 781.5 446.6Q759.3 446.6 759.3 468.9Q759.3 446.6 737 446.6Q759.3 446.6 759.3 424.3Z"/><path d="M604.9 109.6Q604.9 125.7 621 125.7Q604.9 125.7 604.9 141.8Q604.9 125.7 588.7 125.7Q604.9 125.7 604.9 109.6Z"/><path d="M1071.1 497.5Q1071.1 514.8 1088.5 514.8Q1071.1 514.8 1071.1 532.2Q1071.1 514.8 1053.8 514.8Q1071.1 514.8 1071.1 497.5Z"/><path d="M945.9 264.8Q945.9 282.7 963.9 282.7Q945.9 282.7 945.9 300.7Q945.9 282.7 928 282.7Q945.9 282.7 945.9 264.8Z"/><path d="M634.4 218Q634.4 234.9 651.3 234.9Q634.4 234.9 634.4 251.9Q634.4 234.9 617.4 234.9Q634.4 234.9 634.4 218Z"/><path d="M947.1 263.9Q947.1 297.4 980.6 297.4Q947.1 297.4 947.1 330.8Q947.1 297.4 913.7 297.4Q947.1 297.4 947.1 263.9Z"/><path d="M564.7 260.6Q564.7 300.4 604.5 300.4Q564.7 300.4 564.7 340.2Q564.7 300.4 524.9 300.4Q564.7 300.4 564.7 260.6Z"/></g>
+
+  <rect width="1600" height="1000" fill="url(#vignette)"/>
+</svg>

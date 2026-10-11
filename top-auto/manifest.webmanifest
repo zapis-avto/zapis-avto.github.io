@@ -1,0 +1,39 @@
+{
+  "name": "Top Аuto",
+  "short_name": "Top Аuto",
+  "description": "Онлайн-запись: Top Аuto",
+  "lang": "ru",
+  "id": "/top-auto/",
+  "start_url": "/top-auto/",
+  "scope": "/top-auto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/top-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/top-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/top-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/top-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

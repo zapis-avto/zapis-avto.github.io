@@ -1,0 +1,39 @@
+{
+  "name": "Qx",
+  "short_name": "Qx",
+  "description": "Онлайн-запись: Qx",
+  "lang": "ru",
+  "id": "/qx/",
+  "start_url": "/qx/",
+  "scope": "/qx",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090308",
+  "theme_color": "#090308",
+  "icons": [
+    {
+      "src": "/qx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/qx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/qx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/qx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

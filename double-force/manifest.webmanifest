@@ -1,0 +1,39 @@
+{
+  "name": "Double Force",
+  "short_name": "Double Force",
+  "description": "Онлайн-запись: Double Force",
+  "lang": "ru",
+  "id": "/double-force/",
+  "start_url": "/double-force/",
+  "scope": "/double-force",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/double-force/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/double-force/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/double-force/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/double-force/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

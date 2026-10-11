@@ -1,0 +1,39 @@
+{
+  "name": "Джин авто",
+  "short_name": "Джин авто",
+  "description": "Онлайн-запись: Джин авто",
+  "lang": "ru",
+  "id": "/dzhin-avto/",
+  "start_url": "/dzhin-avto/",
+  "scope": "/dzhin-avto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090304",
+  "theme_color": "#090304",
+  "icons": [
+    {
+      "src": "/dzhin-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dzhin-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dzhin-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dzhin-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

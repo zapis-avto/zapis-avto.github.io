@@ -1,0 +1,39 @@
+{
+  "name": "Detailing Exclusive",
+  "short_name": "Detailing",
+  "description": "Онлайн-запись: Detailing Exclusive",
+  "lang": "ru",
+  "id": "/detailing-exclusive/",
+  "start_url": "/detailing-exclusive/",
+  "scope": "/detailing-exclusive",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/detailing-exclusive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-exclusive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing-exclusive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-exclusive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

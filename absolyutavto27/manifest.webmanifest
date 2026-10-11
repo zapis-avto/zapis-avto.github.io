@@ -1,0 +1,39 @@
+{
+  "name": "Абсолютавто27",
+  "short_name": "Абсолютавто2",
+  "description": "Онлайн-запись: Абсолютавто27",
+  "lang": "ru",
+  "id": "/absolyutavto27/",
+  "start_url": "/absolyutavto27/",
+  "scope": "/absolyutavto27",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/absolyutavto27/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/absolyutavto27/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/absolyutavto27/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/absolyutavto27/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

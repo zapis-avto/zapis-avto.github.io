@@ -1,0 +1,39 @@
+{
+  "name": "Vl-Lux",
+  "short_name": "Vl-Lux",
+  "description": "Онлайн-запись: Vl-Lux",
+  "lang": "ru",
+  "id": "/vl-lux/",
+  "start_url": "/vl-lux/",
+  "scope": "/vl-lux",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/vl-lux/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vl-lux/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/vl-lux/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vl-lux/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

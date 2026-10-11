@@ -1,0 +1,39 @@
+{
+  "name": "Sabr detailing",
+  "short_name": "Sabr",
+  "description": "Онлайн-запись: Sabr detailing",
+  "lang": "ru",
+  "id": "/sabr-detailing/",
+  "start_url": "/sabr-detailing/",
+  "scope": "/sabr-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/sabr-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sabr-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/sabr-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sabr-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

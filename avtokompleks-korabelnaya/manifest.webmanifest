@@ -1,0 +1,39 @@
+{
+  "name": "Автокомплекс",
+  "short_name": "Автокомплекс",
+  "description": "Онлайн-запись: Автокомплекс",
+  "lang": "ru",
+  "id": "/avtokompleks-korabelnaya/",
+  "start_url": "/avtokompleks-korabelnaya/",
+  "scope": "/avtokompleks-korabelnaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/avtokompleks-korabelnaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-korabelnaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtokompleks-korabelnaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-korabelnaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
