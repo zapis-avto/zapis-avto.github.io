@@ -1,0 +1,39 @@
+{
+  "name": "Sabr detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Sabr detailing",
+  "lang": "ru",
+  "id": "/sabr-detailing/owner",
+  "start_url": "/sabr-detailing/owner",
+  "scope": "/sabr-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/sabr-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sabr-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/sabr-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sabr-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

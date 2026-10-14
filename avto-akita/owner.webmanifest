@@ -1,0 +1,39 @@
+{
+  "name": "Авто Акита — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Авто Акита",
+  "lang": "ru",
+  "id": "/avto-akita/owner",
+  "start_url": "/avto-akita/owner",
+  "scope": "/avto-akita",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030609",
+  "theme_color": "#030609",
+  "icons": [
+    {
+      "src": "/avto-akita/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avto-akita/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avto-akita/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avto-akita/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

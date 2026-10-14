@@ -1,0 +1,39 @@
+{
+  "name": "АвтоВинил507 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: АвтоВинил507",
+  "lang": "ru",
+  "id": "/avtovinil507/owner",
+  "start_url": "/avtovinil507/owner",
+  "scope": "/avtovinil507",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/avtovinil507/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtovinil507/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtovinil507/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtovinil507/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

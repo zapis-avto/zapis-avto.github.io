@@ -1,0 +1,39 @@
+{
+  "name": "Kraken — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Kraken",
+  "lang": "ru",
+  "id": "/kraken/owner",
+  "start_url": "/kraken/owner",
+  "scope": "/kraken",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060108",
+  "theme_color": "#060108",
+  "icons": [
+    {
+      "src": "/kraken/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kraken/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/kraken/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/kraken/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

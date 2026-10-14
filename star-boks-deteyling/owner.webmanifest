@@ -1,0 +1,39 @@
+{
+  "name": "Стар Бокс Детейлинг — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Стар Бокс Детейлинг",
+  "lang": "ru",
+  "id": "/star-boks-deteyling/owner",
+  "start_url": "/star-boks-deteyling/owner",
+  "scope": "/star-boks-deteyling",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080309",
+  "theme_color": "#080309",
+  "icons": [
+    {
+      "src": "/star-boks-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/star-boks-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/star-boks-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/star-boks-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

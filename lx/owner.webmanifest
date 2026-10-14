@@ -1,0 +1,39 @@
+{
+  "name": "Lx — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Lx",
+  "lang": "ru",
+  "id": "/lx/owner",
+  "start_url": "/lx/owner",
+  "scope": "/lx",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050903",
+  "theme_color": "#050903",
+  "icons": [
+    {
+      "src": "/lx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/lx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

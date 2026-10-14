@@ -1,0 +1,39 @@
+{
+  "name": "ДомАвто — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: ДомАвто",
+  "lang": "ru",
+  "id": "/domavto/owner",
+  "start_url": "/domavto/owner",
+  "scope": "/domavto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/domavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/domavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/domavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/domavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

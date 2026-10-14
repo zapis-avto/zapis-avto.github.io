@@ -1,0 +1,39 @@
+{
+  "name": "Автомоечный комплекс — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автомоечный комплекс",
+  "lang": "ru",
+  "id": "/moyka-volochaevskaya/owner",
+  "start_url": "/moyka-volochaevskaya/owner",
+  "scope": "/moyka-volochaevskaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/moyka-volochaevskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-volochaevskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-volochaevskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-volochaevskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Д6-Детейлинг — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Д6-Детейлинг",
+  "lang": "ru",
+  "id": "/d6-deteyling/owner",
+  "start_url": "/d6-deteyling/owner",
+  "scope": "/d6-deteyling",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/d6-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/d6-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/d6-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/d6-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

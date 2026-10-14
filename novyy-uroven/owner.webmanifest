@@ -1,0 +1,39 @@
+{
+  "name": "Новый уровень — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Новый уровень",
+  "lang": "ru",
+  "id": "/novyy-uroven/owner",
+  "start_url": "/novyy-uroven/owner",
+  "scope": "/novyy-uroven",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/novyy-uroven/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/novyy-uroven/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/novyy-uroven/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/novyy-uroven/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

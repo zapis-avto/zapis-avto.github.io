@@ -1,0 +1,39 @@
+{
+  "name": "Wellrun — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Wellrun",
+  "lang": "ru",
+  "id": "/wellrun/owner",
+  "start_url": "/wellrun/owner",
+  "scope": "/wellrun",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030906",
+  "theme_color": "#030906",
+  "icons": [
+    {
+      "src": "/wellrun/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/wellrun/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/wellrun/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/wellrun/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

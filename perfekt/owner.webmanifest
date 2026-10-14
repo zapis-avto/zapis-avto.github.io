@@ -1,0 +1,39 @@
+{
+  "name": "Перфект — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Перфект",
+  "lang": "ru",
+  "id": "/perfekt/owner",
+  "start_url": "/perfekt/owner",
+  "scope": "/perfekt",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040108",
+  "theme_color": "#040108",
+  "icons": [
+    {
+      "src": "/perfekt/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/perfekt/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/perfekt/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/perfekt/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

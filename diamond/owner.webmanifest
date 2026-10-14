@@ -1,0 +1,39 @@
+{
+  "name": "Даймонд — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Даймонд",
+  "lang": "ru",
+  "id": "/diamond/owner",
+  "start_url": "/diamond/owner",
+  "scope": "/diamond",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#01030a",
+  "theme_color": "#01030a",
+  "icons": [
+    {
+      "src": "/diamond/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/diamond/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/diamond/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/diamond/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

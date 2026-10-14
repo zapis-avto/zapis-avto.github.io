@@ -1,0 +1,39 @@
+{
+  "name": "Totachi — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Totachi",
+  "lang": "ru",
+  "id": "/totachi/owner",
+  "start_url": "/totachi/owner",
+  "scope": "/totachi",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/totachi/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/totachi/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/totachi/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/totachi/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
