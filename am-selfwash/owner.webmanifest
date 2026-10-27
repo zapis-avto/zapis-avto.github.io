@@ -1,0 +1,39 @@
+{
+  "name": "Am Selfwash — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Am Selfwash",
+  "lang": "ru",
+  "id": "/am-selfwash/owner",
+  "start_url": "/am-selfwash/owner",
+  "scope": "/am-selfwash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/am-selfwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/am-selfwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/am-selfwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/am-selfwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

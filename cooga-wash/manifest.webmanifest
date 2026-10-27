@@ -1,0 +1,39 @@
+{
+  "name": "Cooga wash",
+  "short_name": "Cooga wash",
+  "description": "Онлайн-запись: Cooga wash",
+  "lang": "ru",
+  "id": "/cooga-wash/",
+  "start_url": "/cooga-wash/",
+  "scope": "/cooga-wash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/cooga-wash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cooga-wash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/cooga-wash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cooga-wash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

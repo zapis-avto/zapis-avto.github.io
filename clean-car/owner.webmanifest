@@ -1,0 +1,39 @@
+{
+  "name": "Clean car — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Clean car",
+  "lang": "ru",
+  "id": "/clean-car/owner",
+  "start_url": "/clean-car/owner",
+  "scope": "/clean-car",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/clean-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/clean-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Aqua — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aqua",
+  "lang": "ru",
+  "id": "/aqua/owner",
+  "start_url": "/aqua/owner",
+  "scope": "/aqua",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/aqua/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aqua/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

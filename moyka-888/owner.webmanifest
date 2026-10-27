@@ -1,0 +1,39 @@
+{
+  "name": "888 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 888",
+  "lang": "ru",
+  "id": "/moyka-888/owner",
+  "start_url": "/moyka-888/owner",
+  "scope": "/moyka-888",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/moyka-888/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-888/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-888/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-888/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

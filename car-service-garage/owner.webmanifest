@@ -1,0 +1,39 @@
+{
+  "name": "Car Service Garage — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Car Service Garage",
+  "lang": "ru",
+  "id": "/car-service-garage/owner",
+  "start_url": "/car-service-garage/owner",
+  "scope": "/car-service-garage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050309",
+  "theme_color": "#050309",
+  "icons": [
+    {
+      "src": "/car-service-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-service-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/car-service-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-service-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

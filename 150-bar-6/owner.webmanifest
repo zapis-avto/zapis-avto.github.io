@@ -1,0 +1,39 @@
+{
+  "name": "150 bar — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 150 bar",
+  "lang": "ru",
+  "id": "/150-bar-6/owner",
+  "start_url": "/150-bar-6/owner",
+  "scope": "/150-bar-6",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080309",
+  "theme_color": "#080309",
+  "icons": [
+    {
+      "src": "/150-bar-6/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/150-bar-6/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/150-bar-6/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/150-bar-6/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

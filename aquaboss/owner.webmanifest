@@ -1,0 +1,39 @@
+{
+  "name": "Aquaboss — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aquaboss",
+  "lang": "ru",
+  "id": "/aquaboss/owner",
+  "start_url": "/aquaboss/owner",
+  "scope": "/aquaboss",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/aquaboss/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquaboss/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aquaboss/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquaboss/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

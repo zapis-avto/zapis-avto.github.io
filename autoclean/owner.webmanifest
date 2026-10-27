@@ -1,0 +1,39 @@
+{
+  "name": "Autoclean — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Autoclean",
+  "lang": "ru",
+  "id": "/autoclean/owner",
+  "start_url": "/autoclean/owner",
+  "scope": "/autoclean",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/autoclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autoclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autoclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autoclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

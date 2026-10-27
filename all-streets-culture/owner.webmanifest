@@ -1,0 +1,39 @@
+{
+  "name": "All Streets Culture — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: All Streets Culture",
+  "lang": "ru",
+  "id": "/all-streets-culture/owner",
+  "start_url": "/all-streets-culture/owner",
+  "scope": "/all-streets-culture",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/all-streets-culture/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/all-streets-culture/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/all-streets-culture/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/all-streets-culture/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "5 минут",
+  "short_name": "5 минут",
+  "description": "Онлайн-запись: 5 минут",
+  "lang": "ru",
+  "id": "/5-minut/",
+  "start_url": "/5-minut/",
+  "scope": "/5-minut",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/5-minut/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/5-minut/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/5-minut/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/5-minut/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Autoclean",
+  "short_name": "Autoclean",
+  "description": "Онлайн-запись: Autoclean",
+  "lang": "ru",
+  "id": "/autoclean/",
+  "start_url": "/autoclean/",
+  "scope": "/autoclean",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/autoclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autoclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autoclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autoclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "AutoSpaDetailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: AutoSpaDetailing",
+  "lang": "ru",
+  "id": "/autospadetailing/owner",
+  "start_url": "/autospadetailing/owner",
+  "scope": "/autospadetailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/autospadetailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autospadetailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autospadetailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autospadetailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

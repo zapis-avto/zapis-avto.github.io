@@ -1,0 +1,39 @@
+{
+  "name": "Bezpokraski V8 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Bezpokraski V8",
+  "lang": "ru",
+  "id": "/bezpokraski-v8/owner",
+  "start_url": "/bezpokraski-v8/owner",
+  "scope": "/bezpokraski-v8",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/bezpokraski-v8/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bezpokraski-v8/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bezpokraski-v8/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bezpokraski-v8/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

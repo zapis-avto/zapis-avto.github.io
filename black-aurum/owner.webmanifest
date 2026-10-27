@@ -1,0 +1,39 @@
+{
+  "name": "Black Aurum — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Black Aurum",
+  "lang": "ru",
+  "id": "/black-aurum/owner",
+  "start_url": "/black-aurum/owner",
+  "scope": "/black-aurum",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/black-aurum/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-aurum/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/black-aurum/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-aurum/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

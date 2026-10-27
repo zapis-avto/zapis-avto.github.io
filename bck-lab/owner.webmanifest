@@ -1,0 +1,39 @@
+{
+  "name": "Bck lab — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Bck lab",
+  "lang": "ru",
+  "id": "/bck-lab/owner",
+  "start_url": "/bck-lab/owner",
+  "scope": "/bck-lab",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/bck-lab/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bck-lab/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bck-lab/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bck-lab/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

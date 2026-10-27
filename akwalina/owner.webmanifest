@@ -1,0 +1,39 @@
+{
+  "name": "Akwalina — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Akwalina",
+  "lang": "ru",
+  "id": "/akwalina/owner",
+  "start_url": "/akwalina/owner",
+  "scope": "/akwalina",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/akwalina/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/akwalina/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/akwalina/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/akwalina/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Aqua Prime",
+  "short_name": "Aqua Prime",
+  "description": "Онлайн-запись: Aqua Prime",
+  "lang": "ru",
+  "id": "/aqua-prime/",
+  "start_url": "/aqua-prime/",
+  "scope": "/aqua-prime",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090308",
+  "theme_color": "#090308",
+  "icons": [
+    {
+      "src": "/aqua-prime/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua-prime/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aqua-prime/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua-prime/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

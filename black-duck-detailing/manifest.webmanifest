@@ -1,0 +1,39 @@
+{
+  "name": "Black Duck Detailing",
+  "short_name": "Black",
+  "description": "Онлайн-запись: Black Duck Detailing",
+  "lang": "ru",
+  "id": "/black-duck-detailing/",
+  "start_url": "/black-duck-detailing/",
+  "scope": "/black-duck-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/black-duck-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-duck-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/black-duck-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-duck-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

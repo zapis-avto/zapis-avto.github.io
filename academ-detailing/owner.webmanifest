@@ -1,0 +1,39 @@
+{
+  "name": "Academ_detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Academ_detailing",
+  "lang": "ru",
+  "id": "/academ-detailing/owner",
+  "start_url": "/academ-detailing/owner",
+  "scope": "/academ-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/academ-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/academ-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/academ-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/academ-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

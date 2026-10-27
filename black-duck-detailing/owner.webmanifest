@@ -1,0 +1,39 @@
+{
+  "name": "Black Duck Detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Black Duck Detailing",
+  "lang": "ru",
+  "id": "/black-duck-detailing/owner",
+  "start_url": "/black-duck-detailing/owner",
+  "scope": "/black-duck-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/black-duck-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-duck-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/black-duck-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-duck-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

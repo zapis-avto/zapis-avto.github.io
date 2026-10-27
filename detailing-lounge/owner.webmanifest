@@ -1,0 +1,39 @@
+{
+  "name": "Detailing lounge — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Detailing lounge",
+  "lang": "ru",
+  "id": "/detailing-lounge/owner",
+  "start_url": "/detailing-lounge/owner",
+  "scope": "/detailing-lounge",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/detailing-lounge/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-lounge/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing-lounge/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-lounge/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
