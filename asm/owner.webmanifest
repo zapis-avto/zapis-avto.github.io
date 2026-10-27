@@ -1,0 +1,39 @@
+{
+  "name": "Asm — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Asm",
+  "lang": "ru",
+  "id": "/asm/owner",
+  "start_url": "/asm/owner",
+  "scope": "/asm",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/asm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/asm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/asm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/asm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

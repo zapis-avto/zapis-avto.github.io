@@ -1,0 +1,39 @@
+{
+  "name": "Detailing36",
+  "short_name": "Detailing36",
+  "description": "Онлайн-запись: Detailing36",
+  "lang": "ru",
+  "id": "/detailing36/",
+  "start_url": "/detailing36/",
+  "scope": "/detailing36",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/detailing36/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing36/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing36/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing36/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

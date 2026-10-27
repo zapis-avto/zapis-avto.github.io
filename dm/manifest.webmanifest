@@ -1,0 +1,39 @@
+{
+  "name": "Dm",
+  "short_name": "Dm",
+  "description": "Онлайн-запись: Dm",
+  "lang": "ru",
+  "id": "/dm/",
+  "start_url": "/dm/",
+  "scope": "/dm",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030908",
+  "theme_color": "#030908",
+  "icons": [
+    {
+      "src": "/dm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

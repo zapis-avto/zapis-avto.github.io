@@ -1,0 +1,39 @@
+{
+  "name": "Blackbox — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Blackbox",
+  "lang": "ru",
+  "id": "/blackbox/owner",
+  "start_url": "/blackbox/owner",
+  "scope": "/blackbox",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/blackbox/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackbox/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blackbox/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blackbox/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

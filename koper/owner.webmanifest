@@ -1,0 +1,39 @@
+{
+  "name": "Koper — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Koper",
+  "lang": "ru",
+  "id": "/koper/owner",
+  "start_url": "/koper/owner",
+  "scope": "/koper",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/koper/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koper/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/koper/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koper/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

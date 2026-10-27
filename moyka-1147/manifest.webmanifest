@@ -1,0 +1,39 @@
+{
+  "name": "1147",
+  "short_name": "1147",
+  "description": "Онлайн-запись: 1147",
+  "lang": "ru",
+  "id": "/moyka-1147/",
+  "start_url": "/moyka-1147/",
+  "scope": "/moyka-1147",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/moyka-1147/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-1147/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-1147/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-1147/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

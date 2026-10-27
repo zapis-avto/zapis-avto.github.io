@@ -1,0 +1,39 @@
+{
+  "name": "Asm",
+  "short_name": "Asm",
+  "description": "Онлайн-запись: Asm",
+  "lang": "ru",
+  "id": "/asm/",
+  "start_url": "/asm/",
+  "scope": "/asm",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/asm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/asm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/asm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/asm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

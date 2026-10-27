@@ -1,0 +1,39 @@
+{
+  "name": "Aquarium",
+  "short_name": "Aquarium",
+  "description": "Онлайн-запись: Aquarium",
+  "lang": "ru",
+  "id": "/aquarium/",
+  "start_url": "/aquarium/",
+  "scope": "/aquarium",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/aquarium/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquarium/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aquarium/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquarium/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

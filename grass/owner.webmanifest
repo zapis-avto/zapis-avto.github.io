@@ -1,0 +1,39 @@
+{
+  "name": "Grass — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Grass",
+  "lang": "ru",
+  "id": "/grass/owner",
+  "start_url": "/grass/owner",
+  "scope": "/grass",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/grass/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/grass/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/grass/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/grass/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

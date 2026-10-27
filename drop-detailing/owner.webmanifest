@@ -1,0 +1,39 @@
+{
+  "name": "Drop Detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Drop Detailing",
+  "lang": "ru",
+  "id": "/drop-detailing/owner",
+  "start_url": "/drop-detailing/owner",
+  "scope": "/drop-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/drop-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/drop-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/drop-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/drop-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Brown bears garage — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Brown bears garage",
+  "lang": "ru",
+  "id": "/brown-bears-garage/owner",
+  "start_url": "/brown-bears-garage/owner",
+  "scope": "/brown-bears-garage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/brown-bears-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brown-bears-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/brown-bears-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brown-bears-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

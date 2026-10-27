@@ -1,0 +1,39 @@
+{
+  "name": "Armor car",
+  "short_name": "Armor car",
+  "description": "Онлайн-запись: Armor car",
+  "lang": "ru",
+  "id": "/armor-car/",
+  "start_url": "/armor-car/",
+  "scope": "/armor-car",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/armor-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/armor-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/armor-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/armor-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

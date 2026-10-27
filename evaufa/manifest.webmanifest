@@ -1,0 +1,39 @@
+{
+  "name": "Evaufa",
+  "short_name": "Evaufa",
+  "description": "Онлайн-запись: Evaufa",
+  "lang": "ru",
+  "id": "/evaufa/",
+  "start_url": "/evaufa/",
+  "scope": "/evaufa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/evaufa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evaufa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/evaufa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evaufa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

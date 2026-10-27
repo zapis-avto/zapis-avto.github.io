@@ -1,0 +1,39 @@
+{
+  "name": "7 минут",
+  "short_name": "7 минут",
+  "description": "Онлайн-запись: 7 минут",
+  "lang": "ru",
+  "id": "/7-minut/",
+  "start_url": "/7-minut/",
+  "scope": "/7-minut",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/7-minut/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7-minut/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/7-minut/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/7-minut/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

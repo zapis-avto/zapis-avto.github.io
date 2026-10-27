@@ -1,0 +1,39 @@
+{
+  "name": "Black Rock-Service",
+  "short_name": "Black",
+  "description": "Онлайн-запись: Black Rock-Service",
+  "lang": "ru",
+  "id": "/black-rock-service/",
+  "start_url": "/black-rock-service/",
+  "scope": "/black-rock-service",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040309",
+  "theme_color": "#040309",
+  "icons": [
+    {
+      "src": "/black-rock-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-rock-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/black-rock-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/black-rock-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

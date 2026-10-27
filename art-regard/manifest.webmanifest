@@ -1,0 +1,39 @@
+{
+  "name": "Art Regard",
+  "short_name": "Art Regard",
+  "description": "Онлайн-запись: Art Regard",
+  "lang": "ru",
+  "id": "/art-regard/",
+  "start_url": "/art-regard/",
+  "scope": "/art-regard",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/art-regard/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-regard/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/art-regard/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art-regard/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

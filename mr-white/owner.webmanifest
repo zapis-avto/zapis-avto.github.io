@@ -1,0 +1,39 @@
+{
+  "name": "Mr.White — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Mr.White",
+  "lang": "ru",
+  "id": "/mr-white/owner",
+  "start_url": "/mr-white/owner",
+  "scope": "/mr-white",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060309",
+  "theme_color": "#060309",
+  "icons": [
+    {
+      "src": "/mr-white/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mr-white/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mr-white/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mr-white/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

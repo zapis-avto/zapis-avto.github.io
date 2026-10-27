@@ -1,0 +1,39 @@
+{
+  "name": "Blaqcar — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Blaqcar",
+  "lang": "ru",
+  "id": "/blaqcar/owner",
+  "start_url": "/blaqcar/owner",
+  "scope": "/blaqcar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/blaqcar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blaqcar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blaqcar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blaqcar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

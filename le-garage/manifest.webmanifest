@@ -1,0 +1,39 @@
+{
+  "name": "Le Garage",
+  "short_name": "Le Garage",
+  "description": "Онлайн-запись: Le Garage",
+  "lang": "ru",
+  "id": "/le-garage/",
+  "start_url": "/le-garage/",
+  "scope": "/le-garage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/le-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/le-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/le-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/le-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

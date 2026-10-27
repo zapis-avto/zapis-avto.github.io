@@ -1,0 +1,39 @@
+{
+  "name": "Crystalwash — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Crystalwash",
+  "lang": "ru",
+  "id": "/crystalwash/owner",
+  "start_url": "/crystalwash/owner",
+  "scope": "/crystalwash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090503",
+  "theme_color": "#090503",
+  "icons": [
+    {
+      "src": "/crystalwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/crystalwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/crystalwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/crystalwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

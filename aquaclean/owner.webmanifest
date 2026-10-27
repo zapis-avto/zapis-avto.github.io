@@ -1,0 +1,39 @@
+{
+  "name": "Aquaclean — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aquaclean",
+  "lang": "ru",
+  "id": "/aquaclean/owner",
+  "start_url": "/aquaclean/owner",
+  "scope": "/aquaclean",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050309",
+  "theme_color": "#050309",
+  "icons": [
+    {
+      "src": "/aquaclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquaclean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aquaclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aquaclean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

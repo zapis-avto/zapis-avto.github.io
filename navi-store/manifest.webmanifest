@@ -1,0 +1,39 @@
+{
+  "name": "Navi store",
+  "short_name": "Navi store",
+  "description": "Онлайн-запись: Navi store",
+  "lang": "ru",
+  "id": "/navi-store/",
+  "start_url": "/navi-store/",
+  "scope": "/navi-store",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/navi-store/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/navi-store/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/navi-store/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/navi-store/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

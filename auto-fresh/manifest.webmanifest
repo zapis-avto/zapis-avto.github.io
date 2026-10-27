@@ -1,0 +1,39 @@
+{
+  "name": "Auto Fresh",
+  "short_name": "Auto Fresh",
+  "description": "Онлайн-запись: Auto Fresh",
+  "lang": "ru",
+  "id": "/auto-fresh/",
+  "start_url": "/auto-fresh/",
+  "scope": "/auto-fresh",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/auto-fresh/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/auto-fresh/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/auto-fresh/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/auto-fresh/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

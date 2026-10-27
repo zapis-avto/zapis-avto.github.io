@@ -1,0 +1,39 @@
+{
+  "name": "AT Detailing",
+  "short_name": "AT Detailing",
+  "description": "Онлайн-запись: AT Detailing",
+  "lang": "ru",
+  "id": "/at-detailing/",
+  "start_url": "/at-detailing/",
+  "scope": "/at-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/at-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/at-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/at-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/at-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

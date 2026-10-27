@@ -1,0 +1,39 @@
+{
+  "name": "Autodesign_Ufa — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Autodesign_Ufa",
+  "lang": "ru",
+  "id": "/autodesign-ufa/owner",
+  "start_url": "/autodesign-ufa/owner",
+  "scope": "/autodesign-ufa",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/autodesign-ufa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autodesign-ufa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autodesign-ufa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autodesign-ufa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

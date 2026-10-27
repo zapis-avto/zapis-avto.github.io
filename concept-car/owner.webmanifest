@@ -1,0 +1,39 @@
+{
+  "name": "Concept-car — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Concept-car",
+  "lang": "ru",
+  "id": "/concept-car/owner",
+  "start_url": "/concept-car/owner",
+  "scope": "/concept-car",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/concept-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/concept-car/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/concept-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/concept-car/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

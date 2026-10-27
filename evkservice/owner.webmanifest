@@ -1,0 +1,39 @@
+{
+  "name": "Evkservice — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Evkservice",
+  "lang": "ru",
+  "id": "/evkservice/owner",
+  "start_url": "/evkservice/owner",
+  "scope": "/evkservice",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/evkservice/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evkservice/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/evkservice/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evkservice/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

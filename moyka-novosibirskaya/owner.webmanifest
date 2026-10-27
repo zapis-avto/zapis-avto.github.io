@@ -1,0 +1,39 @@
+{
+  "name": "Автомоечный комплекс №1 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автомоечный комплекс №1",
+  "lang": "ru",
+  "id": "/moyka-novosibirskaya/owner",
+  "start_url": "/moyka-novosibirskaya/owner",
+  "scope": "/moyka-novosibirskaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/moyka-novosibirskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-novosibirskaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-novosibirskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-novosibirskaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

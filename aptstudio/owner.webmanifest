@@ -1,0 +1,39 @@
+{
+  "name": "Aptstudio — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aptstudio",
+  "lang": "ru",
+  "id": "/aptstudio/owner",
+  "start_url": "/aptstudio/owner",
+  "scope": "/aptstudio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/aptstudio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aptstudio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aptstudio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aptstudio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

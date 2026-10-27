@@ -1,0 +1,39 @@
+{
+  "name": "Alles — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Alles",
+  "lang": "ru",
+  "id": "/alles-5/owner",
+  "start_url": "/alles-5/owner",
+  "scope": "/alles-5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/alles-5/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alles-5/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/alles-5/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alles-5/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

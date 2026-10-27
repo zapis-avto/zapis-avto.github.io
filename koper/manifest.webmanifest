@@ -1,0 +1,39 @@
+{
+  "name": "Koper",
+  "short_name": "Koper",
+  "description": "Онлайн-запись: Koper",
+  "lang": "ru",
+  "id": "/koper/",
+  "start_url": "/koper/",
+  "scope": "/koper",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/koper/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koper/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/koper/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/koper/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

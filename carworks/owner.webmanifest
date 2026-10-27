@@ -1,0 +1,39 @@
+{
+  "name": "CarWorks — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: CarWorks",
+  "lang": "ru",
+  "id": "/carworks/owner",
+  "start_url": "/carworks/owner",
+  "scope": "/carworks",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/carworks/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carworks/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/carworks/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carworks/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

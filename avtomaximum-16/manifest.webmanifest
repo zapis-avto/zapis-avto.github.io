@@ -1,0 +1,39 @@
+{
+  "name": "Avtomaximum_16",
+  "short_name": "Avtomaximum_",
+  "description": "Онлайн-запись: Avtomaximum_16",
+  "lang": "ru",
+  "id": "/avtomaximum-16/",
+  "start_url": "/avtomaximum-16/",
+  "scope": "/avtomaximum-16",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/avtomaximum-16/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtomaximum-16/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtomaximum-16/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtomaximum-16/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "CarWorks",
+  "short_name": "CarWorks",
+  "description": "Онлайн-запись: CarWorks",
+  "lang": "ru",
+  "id": "/carworks/",
+  "start_url": "/carworks/",
+  "scope": "/carworks",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/carworks/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carworks/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/carworks/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carworks/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

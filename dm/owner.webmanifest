@@ -1,0 +1,39 @@
+{
+  "name": "Dm — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Dm",
+  "lang": "ru",
+  "id": "/dm/owner",
+  "start_url": "/dm/owner",
+  "scope": "/dm",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030908",
+  "theme_color": "#030908",
+  "icons": [
+    {
+      "src": "/dm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dm/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dm/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
