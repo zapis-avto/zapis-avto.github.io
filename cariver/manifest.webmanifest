@@ -1,0 +1,39 @@
+{
+  "name": "Cariver",
+  "short_name": "Cariver",
+  "description": "Онлайн-запись: Cariver",
+  "lang": "ru",
+  "id": "/cariver/",
+  "start_url": "/cariver/",
+  "scope": "/cariver",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/cariver/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cariver/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/cariver/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cariver/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

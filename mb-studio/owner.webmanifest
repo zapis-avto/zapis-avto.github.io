@@ -1,0 +1,39 @@
+{
+  "name": "MB-studio — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: MB-studio",
+  "lang": "ru",
+  "id": "/mb-studio/owner",
+  "start_url": "/mb-studio/owner",
+  "scope": "/mb-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/mb-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mb-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mb-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mb-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

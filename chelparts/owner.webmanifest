@@ -1,0 +1,39 @@
+{
+  "name": "Chelparts — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Chelparts",
+  "lang": "ru",
+  "id": "/chelparts/owner",
+  "start_url": "/chelparts/owner",
+  "scope": "/chelparts",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/chelparts/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chelparts/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/chelparts/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/chelparts/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Evo_Detailing&SimRacing",
+  "short_name": "Evo_Detailin",
+  "description": "Онлайн-запись: Evo_Detailing&SimRacing",
+  "lang": "ru",
+  "id": "/evo-detailing-simracing/",
+  "start_url": "/evo-detailing-simracing/",
+  "scope": "/evo-detailing-simracing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/evo-detailing-simracing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evo-detailing-simracing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/evo-detailing-simracing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/evo-detailing-simracing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

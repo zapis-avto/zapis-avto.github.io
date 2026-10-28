@@ -1,0 +1,39 @@
+{
+  "name": "Aqva Diteiling",
+  "short_name": "Aqva",
+  "description": "Онлайн-запись: Aqva Diteiling",
+  "lang": "ru",
+  "id": "/aqva-diteiling/",
+  "start_url": "/aqva-diteiling/",
+  "scope": "/aqva-diteiling",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/aqva-diteiling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqva-diteiling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aqva-diteiling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqva-diteiling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

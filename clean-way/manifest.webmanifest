@@ -1,0 +1,39 @@
+{
+  "name": "Clean Way",
+  "short_name": "Clean Way",
+  "description": "Онлайн-запись: Clean Way",
+  "lang": "ru",
+  "id": "/clean-way/",
+  "start_url": "/clean-way/",
+  "scope": "/clean-way",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/clean-way/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-way/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/clean-way/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-way/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

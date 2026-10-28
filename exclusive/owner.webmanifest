@@ -1,0 +1,39 @@
+{
+  "name": "Exclusive — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Exclusive",
+  "lang": "ru",
+  "id": "/exclusive/owner",
+  "start_url": "/exclusive/owner",
+  "scope": "/exclusive",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/exclusive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/exclusive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/exclusive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/exclusive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

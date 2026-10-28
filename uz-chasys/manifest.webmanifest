@@ -1,0 +1,39 @@
+{
+  "name": "UZ_chasys",
+  "short_name": "UZ_chasys",
+  "description": "Онлайн-запись: UZ_chasys",
+  "lang": "ru",
+  "id": "/uz-chasys/",
+  "start_url": "/uz-chasys/",
+  "scope": "/uz-chasys",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/uz-chasys/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/uz-chasys/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/uz-chasys/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/uz-chasys/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

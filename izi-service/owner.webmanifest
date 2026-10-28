@@ -1,0 +1,39 @@
+{
+  "name": "Izi Service — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Izi Service",
+  "lang": "ru",
+  "id": "/izi-service/owner",
+  "start_url": "/izi-service/owner",
+  "scope": "/izi-service",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/izi-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/izi-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/izi-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/izi-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

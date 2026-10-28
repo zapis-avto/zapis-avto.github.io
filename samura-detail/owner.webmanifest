@@ -1,0 +1,39 @@
+{
+  "name": "samura_detail — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: samura_detail",
+  "lang": "ru",
+  "id": "/samura-detail/owner",
+  "start_url": "/samura-detail/owner",
+  "scope": "/samura-detail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/samura-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/samura-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/samura-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/samura-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

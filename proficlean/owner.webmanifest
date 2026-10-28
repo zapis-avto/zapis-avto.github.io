@@ -1,0 +1,39 @@
+{
+  "name": "Proficlean — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Proficlean",
+  "lang": "ru",
+  "id": "/proficlean/owner",
+  "start_url": "/proficlean/owner",
+  "scope": "/proficlean",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/proficlean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/proficlean/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/proficlean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/proficlean/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

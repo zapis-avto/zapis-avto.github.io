@@ -1,0 +1,39 @@
+{
+  "name": "Geringer",
+  "short_name": "Geringer",
+  "description": "Онлайн-запись: Geringer",
+  "lang": "ru",
+  "id": "/geringer/",
+  "start_url": "/geringer/",
+  "scope": "/geringer",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030609",
+  "theme_color": "#030609",
+  "icons": [
+    {
+      "src": "/geringer/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/geringer/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/geringer/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/geringer/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

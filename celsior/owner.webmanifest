@@ -1,0 +1,39 @@
+{
+  "name": "Celsior — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Celsior",
+  "lang": "ru",
+  "id": "/celsior/owner",
+  "start_url": "/celsior/owner",
+  "scope": "/celsior",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030906",
+  "theme_color": "#030906",
+  "icons": [
+    {
+      "src": "/celsior/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/celsior/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/celsior/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/celsior/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

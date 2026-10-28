@@ -1,0 +1,39 @@
+{
+  "name": "AS_Детейлинг",
+  "short_name": "AS_Детейлинг",
+  "description": "Онлайн-запись: AS_Детейлинг",
+  "lang": "ru",
+  "id": "/as-deteyling/",
+  "start_url": "/as-deteyling/",
+  "scope": "/as-deteyling",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030908",
+  "theme_color": "#030908",
+  "icons": [
+    {
+      "src": "/as-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/as-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/as-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/as-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

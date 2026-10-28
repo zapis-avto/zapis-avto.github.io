@@ -1,0 +1,39 @@
+{
+  "name": "AS_Детейлинг — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: AS_Детейлинг",
+  "lang": "ru",
+  "id": "/as-deteyling/owner",
+  "start_url": "/as-deteyling/owner",
+  "scope": "/as-deteyling",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030908",
+  "theme_color": "#030908",
+  "icons": [
+    {
+      "src": "/as-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/as-deteyling/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/as-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/as-deteyling/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

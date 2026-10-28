@@ -1,0 +1,39 @@
+{
+  "name": "Octopus",
+  "short_name": "Octopus",
+  "description": "Онлайн-запись: Octopus",
+  "lang": "ru",
+  "id": "/octopus/",
+  "start_url": "/octopus/",
+  "scope": "/octopus",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040309",
+  "theme_color": "#040309",
+  "icons": [
+    {
+      "src": "/octopus/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/octopus/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/octopus/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/octopus/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

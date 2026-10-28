@@ -1,0 +1,39 @@
+{
+  "name": "DS Detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: DS Detailing",
+  "lang": "ru",
+  "id": "/ds-detailing/owner",
+  "start_url": "/ds-detailing/owner",
+  "scope": "/ds-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/ds-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ds-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ds-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ds-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

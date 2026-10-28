@@ -1,0 +1,39 @@
+{
+  "name": "Green_Detailing",
+  "short_name": "Green_Detail",
+  "description": "Онлайн-запись: Green_Detailing",
+  "lang": "ru",
+  "id": "/green-detailing/",
+  "start_url": "/green-detailing/",
+  "scope": "/green-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/green-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/green-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/green-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/green-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

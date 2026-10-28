@@ -1,0 +1,39 @@
+{
+  "name": "Provokator — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Provokator",
+  "lang": "ru",
+  "id": "/provokator/owner",
+  "start_url": "/provokator/owner",
+  "scope": "/provokator",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/provokator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/provokator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/provokator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/provokator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

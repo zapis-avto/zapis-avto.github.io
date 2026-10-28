@@ -1,0 +1,39 @@
+{
+  "name": "H2O",
+  "short_name": "H2O",
+  "description": "Онлайн-запись: H2O",
+  "lang": "ru",
+  "id": "/h2o-2/",
+  "start_url": "/h2o-2/",
+  "scope": "/h2o-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/h2o-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/h2o-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/h2o-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/h2o-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

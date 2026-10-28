@@ -1,0 +1,39 @@
+{
+  "name": "Bort-174",
+  "short_name": "Bort-174",
+  "description": "Онлайн-запись: Bort-174",
+  "lang": "ru",
+  "id": "/bort-174/",
+  "start_url": "/bort-174/",
+  "scope": "/bort-174",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/bort-174/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bort-174/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bort-174/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bort-174/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

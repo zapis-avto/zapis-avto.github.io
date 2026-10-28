@@ -1,0 +1,39 @@
+{
+  "name": "Denjer Detailing",
+  "short_name": "Denjer",
+  "description": "Онлайн-запись: Denjer Detailing",
+  "lang": "ru",
+  "id": "/denjer-detailing/",
+  "start_url": "/denjer-detailing/",
+  "scope": "/denjer-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/denjer-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/denjer-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/denjer-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/denjer-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

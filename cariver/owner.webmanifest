@@ -1,0 +1,39 @@
+{
+  "name": "Cariver — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Cariver",
+  "lang": "ru",
+  "id": "/cariver/owner",
+  "start_url": "/cariver/owner",
+  "scope": "/cariver",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/cariver/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cariver/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/cariver/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cariver/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

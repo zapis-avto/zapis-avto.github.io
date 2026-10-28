@@ -1,0 +1,39 @@
+{
+  "name": "Global Painting",
+  "short_name": "Global",
+  "description": "Онлайн-запись: Global Painting",
+  "lang": "ru",
+  "id": "/global-painting/",
+  "start_url": "/global-painting/",
+  "scope": "/global-painting",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/global-painting/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/global-painting/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/global-painting/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/global-painting/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

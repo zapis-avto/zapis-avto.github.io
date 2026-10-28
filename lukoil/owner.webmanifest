@@ -1,0 +1,39 @@
+{
+  "name": "Lukoil — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Lukoil",
+  "lang": "ru",
+  "id": "/lukoil/owner",
+  "start_url": "/lukoil/owner",
+  "scope": "/lukoil",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/lukoil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lukoil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/lukoil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lukoil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

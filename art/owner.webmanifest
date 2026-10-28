@@ -1,0 +1,39 @@
+{
+  "name": "Art — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Art",
+  "lang": "ru",
+  "id": "/art/owner",
+  "start_url": "/art/owner",
+  "scope": "/art",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/art/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/art/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/art/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

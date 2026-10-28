@@ -1,0 +1,39 @@
+{
+  "name": "DetailX — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: DetailX",
+  "lang": "ru",
+  "id": "/detailx/owner",
+  "start_url": "/detailx/owner",
+  "scope": "/detailx",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/detailx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Magnifico car design — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Magnifico car design",
+  "lang": "ru",
+  "id": "/magnifico-car-design/owner",
+  "start_url": "/magnifico-car-design/owner",
+  "scope": "/magnifico-car-design",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090304",
+  "theme_color": "#090304",
+  "icons": [
+    {
+      "src": "/magnifico-car-design/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/magnifico-car-design/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/magnifico-car-design/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/magnifico-car-design/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

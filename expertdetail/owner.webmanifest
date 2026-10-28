@@ -1,0 +1,39 @@
+{
+  "name": "ExpertDetail — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: ExpertDetail",
+  "lang": "ru",
+  "id": "/expertdetail/owner",
+  "start_url": "/expertdetail/owner",
+  "scope": "/expertdetail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/expertdetail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/expertdetail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/expertdetail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/expertdetail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Provokator",
+  "short_name": "Provokator",
+  "description": "Онлайн-запись: Provokator",
+  "lang": "ru",
+  "id": "/provokator/",
+  "start_url": "/provokator/",
+  "scope": "/provokator",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/provokator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/provokator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/provokator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/provokator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

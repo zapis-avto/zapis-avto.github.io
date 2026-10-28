@@ -1,0 +1,39 @@
+{
+  "name": "ExpertDetail",
+  "short_name": "ExpertDetail",
+  "description": "Онлайн-запись: ExpertDetail",
+  "lang": "ru",
+  "id": "/expertdetail/",
+  "start_url": "/expertdetail/",
+  "scope": "/expertdetail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/expertdetail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/expertdetail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/expertdetail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/expertdetail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
