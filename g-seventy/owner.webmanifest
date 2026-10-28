@@ -1,0 +1,39 @@
+{
+  "name": "G-Seventy — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: G-Seventy",
+  "lang": "ru",
+  "id": "/g-seventy/owner",
+  "start_url": "/g-seventy/owner",
+  "scope": "/g-seventy",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/g-seventy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/g-seventy/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/g-seventy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/g-seventy/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

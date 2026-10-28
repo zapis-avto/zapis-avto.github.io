@@ -1,0 +1,39 @@
+{
+  "name": "DetailPro — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: DetailPro",
+  "lang": "ru",
+  "id": "/detailpro/owner",
+  "start_url": "/detailpro/owner",
+  "scope": "/detailpro",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/detailpro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailpro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailpro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailpro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

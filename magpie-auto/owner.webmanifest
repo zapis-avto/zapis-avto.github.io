@@ -1,0 +1,39 @@
+{
+  "name": "Magpie auto — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Magpie auto",
+  "lang": "ru",
+  "id": "/magpie-auto/owner",
+  "start_url": "/magpie-auto/owner",
+  "scope": "/magpie-auto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/magpie-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/magpie-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/magpie-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/magpie-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Brooklyn",
+  "short_name": "Brooklyn",
+  "description": "Онлайн-запись: Brooklyn",
+  "lang": "ru",
+  "id": "/brooklyn/",
+  "start_url": "/brooklyn/",
+  "scope": "/brooklyn",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050309",
+  "theme_color": "#050309",
+  "icons": [
+    {
+      "src": "/brooklyn/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brooklyn/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/brooklyn/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/brooklyn/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

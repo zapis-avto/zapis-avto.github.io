@@ -1,0 +1,39 @@
+{
+  "name": "Автоключ55",
+  "short_name": "Автоключ55",
+  "description": "Онлайн-запись: Автоключ55",
+  "lang": "ru",
+  "id": "/avtoklyuch55/",
+  "start_url": "/avtoklyuch55/",
+  "scope": "/avtoklyuch55",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/avtoklyuch55/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoklyuch55/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtoklyuch55/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoklyuch55/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

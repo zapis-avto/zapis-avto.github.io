@@ -1,0 +1,39 @@
+{
+  "name": "600 seconds — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: 600 seconds",
+  "lang": "ru",
+  "id": "/600-seconds/owner",
+  "start_url": "/600-seconds/owner",
+  "scope": "/600-seconds",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/600-seconds/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/600-seconds/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/600-seconds/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/600-seconds/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Car wash detail — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Car wash detail",
+  "lang": "ru",
+  "id": "/car-wash-detail/owner",
+  "start_url": "/car-wash-detail/owner",
+  "scope": "/car-wash-detail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060309",
+  "theme_color": "#060309",
+  "icons": [
+    {
+      "src": "/car-wash-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-wash-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/car-wash-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/car-wash-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

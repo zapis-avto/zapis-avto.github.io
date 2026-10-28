@@ -1,0 +1,39 @@
+{
+  "name": "Vs Detail",
+  "short_name": "Vs Detail",
+  "description": "Онлайн-запись: Vs Detail",
+  "lang": "ru",
+  "id": "/vs-detail/",
+  "start_url": "/vs-detail/",
+  "scope": "/vs-detail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/vs-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vs-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/vs-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vs-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

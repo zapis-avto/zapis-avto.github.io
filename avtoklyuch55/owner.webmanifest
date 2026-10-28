@@ -1,0 +1,39 @@
+{
+  "name": "Автоключ55 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автоключ55",
+  "lang": "ru",
+  "id": "/avtoklyuch55/owner",
+  "start_url": "/avtoklyuch55/owner",
+  "scope": "/avtoklyuch55",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/avtoklyuch55/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoklyuch55/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtoklyuch55/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoklyuch55/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

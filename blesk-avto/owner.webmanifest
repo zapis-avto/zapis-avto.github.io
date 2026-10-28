@@ -1,0 +1,39 @@
+{
+  "name": "Blesk avto — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Blesk avto",
+  "lang": "ru",
+  "id": "/blesk-avto/owner",
+  "start_url": "/blesk-avto/owner",
+  "scope": "/blesk-avto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/blesk-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blesk-avto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blesk-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blesk-avto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DopLab74",
+  "short_name": "DopLab74",
+  "description": "Онлайн-запись: DopLab74",
+  "lang": "ru",
+  "id": "/doplab74/",
+  "start_url": "/doplab74/",
+  "scope": "/doplab74",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040309",
+  "theme_color": "#040309",
+  "icons": [
+    {
+      "src": "/doplab74/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/doplab74/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/doplab74/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/doplab74/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

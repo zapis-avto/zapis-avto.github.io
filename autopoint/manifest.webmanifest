@@ -1,0 +1,39 @@
+{
+  "name": "Autopoint",
+  "short_name": "Autopoint",
+  "description": "Онлайн-запись: Autopoint",
+  "lang": "ru",
+  "id": "/autopoint/",
+  "start_url": "/autopoint/",
+  "scope": "/autopoint",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/autopoint/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autopoint/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autopoint/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autopoint/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

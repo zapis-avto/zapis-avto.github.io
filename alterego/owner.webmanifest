@@ -1,0 +1,39 @@
+{
+  "name": "AltereGo — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: AltereGo",
+  "lang": "ru",
+  "id": "/alterego/owner",
+  "start_url": "/alterego/owner",
+  "scope": "/alterego",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030609",
+  "theme_color": "#030609",
+  "icons": [
+    {
+      "src": "/alterego/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alterego/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/alterego/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alterego/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

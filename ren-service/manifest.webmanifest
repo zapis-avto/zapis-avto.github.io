@@ -1,0 +1,39 @@
+{
+  "name": "Ren-service",
+  "short_name": "Ren-service",
+  "description": "Онлайн-запись: Ren-service",
+  "lang": "ru",
+  "id": "/ren-service/",
+  "start_url": "/ren-service/",
+  "scope": "/ren-service",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/ren-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ren-service/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ren-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ren-service/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Defender Auto",
+  "short_name": "Defender",
+  "description": "Онлайн-запись: Defender Auto",
+  "lang": "ru",
+  "id": "/defender-auto/",
+  "start_url": "/defender-auto/",
+  "scope": "/defender-auto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/defender-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/defender-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/defender-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/defender-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

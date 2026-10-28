@@ -1,0 +1,39 @@
+{
+  "name": "Nick_Detail — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Nick_Detail",
+  "lang": "ru",
+  "id": "/nick-detail/owner",
+  "start_url": "/nick-detail/owner",
+  "scope": "/nick-detail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/nick-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nick-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/nick-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/nick-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

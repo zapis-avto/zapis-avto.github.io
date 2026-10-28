@@ -1,0 +1,39 @@
+{
+  "name": "Clean car",
+  "short_name": "Clean car",
+  "description": "Онлайн-запись: Clean car",
+  "lang": "ru",
+  "id": "/clean-car-2/",
+  "start_url": "/clean-car-2/",
+  "scope": "/clean-car-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/clean-car-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-car-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/clean-car-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/clean-car-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

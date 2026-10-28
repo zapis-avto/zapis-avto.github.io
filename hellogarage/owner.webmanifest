@@ -1,0 +1,39 @@
+{
+  "name": "HelloGarage — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: HelloGarage",
+  "lang": "ru",
+  "id": "/hellogarage/owner",
+  "start_url": "/hellogarage/owner",
+  "scope": "/hellogarage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030409",
+  "theme_color": "#030409",
+  "icons": [
+    {
+      "src": "/hellogarage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hellogarage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/hellogarage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/hellogarage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

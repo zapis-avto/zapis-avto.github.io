@@ -1,0 +1,39 @@
+{
+  "name": "El Kamo",
+  "short_name": "El Kamo",
+  "description": "Онлайн-запись: El Kamo",
+  "lang": "ru",
+  "id": "/el-kamo/",
+  "start_url": "/el-kamo/",
+  "scope": "/el-kamo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/el-kamo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/el-kamo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/el-kamo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/el-kamo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

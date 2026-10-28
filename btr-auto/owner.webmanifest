@@ -1,0 +1,39 @@
+{
+  "name": "Btr Auto — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Btr Auto",
+  "lang": "ru",
+  "id": "/btr-auto/owner",
+  "start_url": "/btr-auto/owner",
+  "scope": "/btr-auto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/btr-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/btr-auto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/btr-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/btr-auto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

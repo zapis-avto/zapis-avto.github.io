@@ -1,0 +1,39 @@
+{
+  "name": "Aqua buro — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Aqua buro",
+  "lang": "ru",
+  "id": "/aqua-buro/owner",
+  "start_url": "/aqua-buro/owner",
+  "scope": "/aqua-buro",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090304",
+  "theme_color": "#090304",
+  "icons": [
+    {
+      "src": "/aqua-buro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua-buro/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aqua-buro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aqua-buro/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

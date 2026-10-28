@@ -1,0 +1,39 @@
+{
+  "name": "Автодом — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автодом",
+  "lang": "ru",
+  "id": "/avtodom/owner",
+  "start_url": "/avtodom/owner",
+  "scope": "/avtodom",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/avtodom/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodom/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtodom/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodom/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

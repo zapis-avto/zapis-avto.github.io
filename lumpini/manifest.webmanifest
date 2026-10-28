@@ -1,0 +1,39 @@
+{
+  "name": "Lumpini",
+  "short_name": "Lumpini",
+  "description": "Онлайн-запись: Lumpini",
+  "lang": "ru",
+  "id": "/lumpini/",
+  "start_url": "/lumpini/",
+  "scope": "/lumpini",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090503",
+  "theme_color": "#090503",
+  "icons": [
+    {
+      "src": "/lumpini/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lumpini/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/lumpini/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lumpini/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
