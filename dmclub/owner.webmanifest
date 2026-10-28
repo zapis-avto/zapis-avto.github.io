@@ -1,0 +1,39 @@
+{
+  "name": "Dmclub — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Dmclub",
+  "lang": "ru",
+  "id": "/dmclub/owner",
+  "start_url": "/dmclub/owner",
+  "scope": "/dmclub",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/dmclub/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dmclub/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/dmclub/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/dmclub/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

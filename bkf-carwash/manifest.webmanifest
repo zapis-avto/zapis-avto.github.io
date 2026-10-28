@@ -1,0 +1,39 @@
+{
+  "name": "Bkf CarWash",
+  "short_name": "Bkf CarWash",
+  "description": "Онлайн-запись: Bkf CarWash",
+  "lang": "ru",
+  "id": "/bkf-carwash/",
+  "start_url": "/bkf-carwash/",
+  "scope": "/bkf-carwash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/bkf-carwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bkf-carwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bkf-carwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/bkf-carwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

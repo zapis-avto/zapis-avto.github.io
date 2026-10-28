@@ -1,0 +1,39 @@
+{
+  "name": "Автоблеск34 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автоблеск34",
+  "lang": "ru",
+  "id": "/avtoblesk34/owner",
+  "start_url": "/avtoblesk34/owner",
+  "scope": "/avtoblesk34",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/avtoblesk34/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoblesk34/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtoblesk34/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtoblesk34/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

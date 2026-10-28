@@ -1,0 +1,39 @@
+{
+  "name": "Matteo",
+  "short_name": "Matteo",
+  "description": "Онлайн-запись: Matteo",
+  "lang": "ru",
+  "id": "/matteo/",
+  "start_url": "/matteo/",
+  "scope": "/matteo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/matteo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/matteo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/matteo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/matteo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

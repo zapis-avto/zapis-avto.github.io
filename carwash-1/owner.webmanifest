@@ -1,0 +1,39 @@
+{
+  "name": "Carwash №1 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Carwash №1",
+  "lang": "ru",
+  "id": "/carwash-1/owner",
+  "start_url": "/carwash-1/owner",
+  "scope": "/carwash-1",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/carwash-1/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carwash-1/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/carwash-1/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/carwash-1/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

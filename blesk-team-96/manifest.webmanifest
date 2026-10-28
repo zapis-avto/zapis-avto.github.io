@@ -1,0 +1,39 @@
+{
+  "name": "Blesk Team 96",
+  "short_name": "Blesk",
+  "description": "Онлайн-запись: Blesk Team 96",
+  "lang": "ru",
+  "id": "/blesk-team-96/",
+  "start_url": "/blesk-team-96/",
+  "scope": "/blesk-team-96",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/blesk-team-96/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blesk-team-96/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/blesk-team-96/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/blesk-team-96/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

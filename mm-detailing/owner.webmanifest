@@ -1,0 +1,39 @@
+{
+  "name": "Mm-Detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Mm-Detailing",
+  "lang": "ru",
+  "id": "/mm-detailing/owner",
+  "start_url": "/mm-detailing/owner",
+  "scope": "/mm-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/mm-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mm-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/mm-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/mm-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "AutoBrothers — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: AutoBrothers",
+  "lang": "ru",
+  "id": "/autobrothers/owner",
+  "start_url": "/autobrothers/owner",
+  "scope": "/autobrothers",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/autobrothers/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autobrothers/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autobrothers/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autobrothers/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

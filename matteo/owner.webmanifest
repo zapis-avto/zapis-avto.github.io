@@ -1,0 +1,39 @@
+{
+  "name": "Matteo — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Matteo",
+  "lang": "ru",
+  "id": "/matteo/owner",
+  "start_url": "/matteo/owner",
+  "scope": "/matteo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/matteo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/matteo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/matteo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/matteo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

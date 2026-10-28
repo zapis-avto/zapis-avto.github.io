@@ -1,0 +1,39 @@
+{
+  "name": "Moika Otido",
+  "short_name": "Moika Otido",
+  "description": "Онлайн-запись: Moika Otido",
+  "lang": "ru",
+  "id": "/moika-otido/",
+  "start_url": "/moika-otido/",
+  "scope": "/moika-otido",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080309",
+  "theme_color": "#080309",
+  "icons": [
+    {
+      "src": "/moika-otido/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moika-otido/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moika-otido/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moika-otido/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

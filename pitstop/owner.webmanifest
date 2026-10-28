@@ -1,0 +1,39 @@
+{
+  "name": "Pitstop — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Pitstop",
+  "lang": "ru",
+  "id": "/pitstop/owner",
+  "start_url": "/pitstop/owner",
+  "scope": "/pitstop",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040309",
+  "theme_color": "#040309",
+  "icons": [
+    {
+      "src": "/pitstop/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pitstop/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pitstop/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pitstop/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

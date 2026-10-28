@@ -1,0 +1,39 @@
+{
+  "name": "Ferrari",
+  "short_name": "Ferrari",
+  "description": "Онлайн-запись: Ferrari",
+  "lang": "ru",
+  "id": "/ferrari/",
+  "start_url": "/ferrari/",
+  "scope": "/ferrari",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090306",
+  "theme_color": "#090306",
+  "icons": [
+    {
+      "src": "/ferrari/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ferrari/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ferrari/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ferrari/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Geizer — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Geizer",
+  "lang": "ru",
+  "id": "/geizer-2/owner",
+  "start_url": "/geizer-2/owner",
+  "scope": "/geizer-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/geizer-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/geizer-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/geizer-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/geizer-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

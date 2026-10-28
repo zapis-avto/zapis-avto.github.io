@@ -1,0 +1,39 @@
+{
+  "name": "Detailing car station",
+  "short_name": "Detailing",
+  "description": "Онлайн-запись: Detailing car station",
+  "lang": "ru",
+  "id": "/detailing-car-station/",
+  "start_url": "/detailing-car-station/",
+  "scope": "/detailing-car-station",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/detailing-car-station/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-car-station/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing-car-station/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing-car-station/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

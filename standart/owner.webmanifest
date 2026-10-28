@@ -1,0 +1,39 @@
+{
+  "name": "Standart — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Standart",
+  "lang": "ru",
+  "id": "/standart/owner",
+  "start_url": "/standart/owner",
+  "scope": "/standart",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030609",
+  "theme_color": "#030609",
+  "icons": [
+    {
+      "src": "/standart/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/standart/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/standart/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/standart/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

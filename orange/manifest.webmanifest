@@ -1,0 +1,39 @@
+{
+  "name": "Orange",
+  "short_name": "Orange",
+  "description": "Онлайн-запись: Orange",
+  "lang": "ru",
+  "id": "/orange/",
+  "start_url": "/orange/",
+  "scope": "/orange",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/orange/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/orange/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/orange/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/orange/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

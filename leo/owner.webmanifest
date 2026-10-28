@@ -1,0 +1,39 @@
+{
+  "name": "Leo — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Leo",
+  "lang": "ru",
+  "id": "/leo/owner",
+  "start_url": "/leo/owner",
+  "scope": "/leo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060309",
+  "theme_color": "#060309",
+  "icons": [
+    {
+      "src": "/leo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/leo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/leo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/leo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

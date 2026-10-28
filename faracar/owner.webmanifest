@@ -1,0 +1,39 @@
+{
+  "name": "FaraCar — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: FaraCar",
+  "lang": "ru",
+  "id": "/faracar/owner",
+  "start_url": "/faracar/owner",
+  "scope": "/faracar",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/faracar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/faracar/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/faracar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/faracar/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

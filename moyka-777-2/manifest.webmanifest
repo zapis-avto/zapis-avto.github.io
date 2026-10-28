@@ -1,0 +1,39 @@
+{
+  "name": "777",
+  "short_name": "777",
+  "description": "Онлайн-запись: 777",
+  "lang": "ru",
+  "id": "/moyka-777-2/",
+  "start_url": "/moyka-777-2/",
+  "scope": "/moyka-777-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090803",
+  "theme_color": "#090803",
+  "icons": [
+    {
+      "src": "/moyka-777-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-777-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/moyka-777-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/moyka-777-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

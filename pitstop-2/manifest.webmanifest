@@ -1,0 +1,39 @@
+{
+  "name": "PitStop",
+  "short_name": "PitStop",
+  "description": "Онлайн-запись: PitStop",
+  "lang": "ru",
+  "id": "/pitstop-2/",
+  "start_url": "/pitstop-2/",
+  "scope": "/pitstop-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/pitstop-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pitstop-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/pitstop-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pitstop-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

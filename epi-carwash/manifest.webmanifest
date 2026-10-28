@@ -1,0 +1,39 @@
+{
+  "name": "Epi carwash",
+  "short_name": "Epi carwash",
+  "description": "Онлайн-запись: Epi carwash",
+  "lang": "ru",
+  "id": "/epi-carwash/",
+  "start_url": "/epi-carwash/",
+  "scope": "/epi-carwash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/epi-carwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/epi-carwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/epi-carwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/epi-carwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

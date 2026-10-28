@@ -1,0 +1,39 @@
+{
+  "name": "Lambo.boxx — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Lambo.boxx",
+  "lang": "ru",
+  "id": "/lambo-boxx/owner",
+  "start_url": "/lambo-boxx/owner",
+  "scope": "/lambo-boxx",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/lambo-boxx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lambo-boxx/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/lambo-boxx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/lambo-boxx/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

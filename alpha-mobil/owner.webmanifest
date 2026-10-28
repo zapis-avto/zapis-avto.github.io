@@ -1,0 +1,39 @@
+{
+  "name": "Alpha Mobil — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Alpha Mobil",
+  "lang": "ru",
+  "id": "/alpha-mobil/owner",
+  "start_url": "/alpha-mobil/owner",
+  "scope": "/alpha-mobil",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090307",
+  "theme_color": "#090307",
+  "icons": [
+    {
+      "src": "/alpha-mobil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alpha-mobil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/alpha-mobil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/alpha-mobil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

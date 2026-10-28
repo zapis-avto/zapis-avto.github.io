@@ -1,0 +1,39 @@
+{
+  "name": "AAA-Detailing",
+  "short_name": "AAA-Detailin",
+  "description": "Онлайн-запись: AAA-Detailing",
+  "lang": "ru",
+  "id": "/aaa-detailing/",
+  "start_url": "/aaa-detailing/",
+  "scope": "/aaa-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/aaa-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aaa-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/aaa-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/aaa-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Avtodrive",
+  "short_name": "Avtodrive",
+  "description": "Онлайн-запись: Avtodrive",
+  "lang": "ru",
+  "id": "/avtodrive/",
+  "start_url": "/avtodrive/",
+  "scope": "/avtodrive",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030809",
+  "theme_color": "#030809",
+  "icons": [
+    {
+      "src": "/avtodrive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodrive/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtodrive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodrive/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Autogost.Group",
+  "short_name": "Autogost.Gro",
+  "description": "Онлайн-запись: Autogost.Group",
+  "lang": "ru",
+  "id": "/autogost-group/",
+  "start_url": "/autogost-group/",
+  "scope": "/autogost-group",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/autogost-group/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autogost-group/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/autogost-group/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/autogost-group/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "AVA — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: AVA",
+  "lang": "ru",
+  "id": "/ava-2/owner",
+  "start_url": "/ava-2/owner",
+  "scope": "/ava-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/ava-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ava-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ava-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ava-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

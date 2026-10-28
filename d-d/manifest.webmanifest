@@ -1,0 +1,39 @@
+{
+  "name": "D&D",
+  "short_name": "D&D",
+  "description": "Онлайн-запись: D&D",
+  "lang": "ru",
+  "id": "/d-d/",
+  "start_url": "/d-d/",
+  "scope": "/d-d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/d-d/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/d-d/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/d-d/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/d-d/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

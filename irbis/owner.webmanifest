@@ -1,0 +1,39 @@
+{
+  "name": "Irbis — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Irbis",
+  "lang": "ru",
+  "id": "/irbis/owner",
+  "start_url": "/irbis/owner",
+  "scope": "/irbis",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/irbis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/irbis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/irbis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/irbis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

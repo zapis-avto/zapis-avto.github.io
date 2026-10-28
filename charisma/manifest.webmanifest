@@ -1,0 +1,39 @@
+{
+  "name": "Charisma",
+  "short_name": "Charisma",
+  "description": "Онлайн-запись: Charisma",
+  "lang": "ru",
+  "id": "/charisma/",
+  "start_url": "/charisma/",
+  "scope": "/charisma",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/charisma/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/charisma/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/charisma/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/charisma/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

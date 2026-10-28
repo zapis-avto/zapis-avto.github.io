@@ -1,0 +1,39 @@
+{
+  "name": "Detaling club 777 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Detaling club 777",
+  "lang": "ru",
+  "id": "/detaling-club-777/owner",
+  "start_url": "/detaling-club-777/owner",
+  "scope": "/detaling-club-777",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/detaling-club-777/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detaling-club-777/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detaling-club-777/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detaling-club-777/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
