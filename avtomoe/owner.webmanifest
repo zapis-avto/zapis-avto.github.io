@@ -1,0 +1,39 @@
+{
+  "name": "Автомоё — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Автомоё",
+  "lang": "ru",
+  "id": "/avtomoe/owner",
+  "start_url": "/avtomoe/owner",
+  "scope": "/avtomoe",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070903",
+  "theme_color": "#070903",
+  "icons": [
+    {
+      "src": "/avtomoe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtomoe/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtomoe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtomoe/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

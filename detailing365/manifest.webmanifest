@@ -1,0 +1,39 @@
+{
+  "name": "Detailing365",
+  "short_name": "Detailing365",
+  "description": "Онлайн-запись: Detailing365",
+  "lang": "ru",
+  "id": "/detailing365/",
+  "start_url": "/detailing365/",
+  "scope": "/detailing365",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/detailing365/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing365/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing365/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing365/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

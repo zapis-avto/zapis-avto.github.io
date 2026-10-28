@@ -1,0 +1,39 @@
+{
+  "name": "АвтоДайвинг",
+  "short_name": "АвтоДайвинг",
+  "description": "Онлайн-запись: АвтоДайвинг",
+  "lang": "ru",
+  "id": "/avtodayving/",
+  "start_url": "/avtodayving/",
+  "scope": "/avtodayving",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080309",
+  "theme_color": "#080309",
+  "icons": [
+    {
+      "src": "/avtodayving/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodayving/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtodayving/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtodayving/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

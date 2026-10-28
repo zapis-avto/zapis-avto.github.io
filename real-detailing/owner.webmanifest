@@ -1,0 +1,39 @@
+{
+  "name": "Real Detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Real Detailing",
+  "lang": "ru",
+  "id": "/real-detailing/owner",
+  "start_url": "/real-detailing/owner",
+  "scope": "/real-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/real-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/real-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/real-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/real-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Автокомплекс",
+  "short_name": "Автокомплекс",
+  "description": "Онлайн-запись: Автокомплекс",
+  "lang": "ru",
+  "id": "/avtokompleks-moskovskoe-23-kil/",
+  "start_url": "/avtokompleks-moskovskoe-23-kil/",
+  "scope": "/avtokompleks-moskovskoe-23-kil",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030609",
+  "theme_color": "#030609",
+  "icons": [
+    {
+      "src": "/avtokompleks-moskovskoe-23-kil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-moskovskoe-23-kil/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtokompleks-moskovskoe-23-kil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-moskovskoe-23-kil/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

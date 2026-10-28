@@ -1,0 +1,39 @@
+{
+  "name": "Old Garage — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Old Garage",
+  "lang": "ru",
+  "id": "/old-garage/owner",
+  "start_url": "/old-garage/owner",
+  "scope": "/old-garage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090503",
+  "theme_color": "#090503",
+  "icons": [
+    {
+      "src": "/old-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/old-garage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/old-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/old-garage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

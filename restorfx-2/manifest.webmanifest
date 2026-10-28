@@ -1,0 +1,39 @@
+{
+  "name": "RestorFX",
+  "short_name": "RestorFX",
+  "description": "Онлайн-запись: RestorFX",
+  "lang": "ru",
+  "id": "/restorfx-2/",
+  "start_url": "/restorfx-2/",
+  "scope": "/restorfx-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/restorfx-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/restorfx-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/restorfx-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/restorfx-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

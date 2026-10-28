@@ -1,0 +1,39 @@
+{
+  "name": "Psw Studio",
+  "short_name": "Psw Studio",
+  "description": "Онлайн-запись: Psw Studio",
+  "lang": "ru",
+  "id": "/psw-studio/",
+  "start_url": "/psw-studio/",
+  "scope": "/psw-studio",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090309",
+  "theme_color": "#090309",
+  "icons": [
+    {
+      "src": "/psw-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/psw-studio/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/psw-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/psw-studio/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

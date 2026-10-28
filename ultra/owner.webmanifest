@@ -1,0 +1,39 @@
+{
+  "name": "Ultra — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Ultra",
+  "lang": "ru",
+  "id": "/ultra/owner",
+  "start_url": "/ultra/owner",
+  "scope": "/ultra",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/ultra/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ultra/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ultra/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ultra/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

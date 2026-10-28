@@ -1,0 +1,39 @@
+{
+  "name": "Cleanавто",
+  "short_name": "Cleanавто",
+  "description": "Онлайн-запись: Cleanавто",
+  "lang": "ru",
+  "id": "/cleanavto/",
+  "start_url": "/cleanavto/",
+  "scope": "/cleanavto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/cleanavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cleanavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/cleanavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cleanavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

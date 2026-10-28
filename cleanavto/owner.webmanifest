@@ -1,0 +1,39 @@
+{
+  "name": "Cleanавто — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Cleanавто",
+  "lang": "ru",
+  "id": "/cleanavto/owner",
+  "start_url": "/cleanavto/owner",
+  "scope": "/cleanavto",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070309",
+  "theme_color": "#070309",
+  "icons": [
+    {
+      "src": "/cleanavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cleanavto/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/cleanavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/cleanavto/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

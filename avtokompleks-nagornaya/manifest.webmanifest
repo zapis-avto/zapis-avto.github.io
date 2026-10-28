@@ -1,0 +1,39 @@
+{
+  "name": "Автокомплекс",
+  "short_name": "Автокомплекс",
+  "description": "Онлайн-запись: Автокомплекс",
+  "lang": "ru",
+  "id": "/avtokompleks-nagornaya/",
+  "start_url": "/avtokompleks-nagornaya/",
+  "scope": "/avtokompleks-nagornaya",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/avtokompleks-nagornaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-nagornaya/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/avtokompleks-nagornaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/avtokompleks-nagornaya/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

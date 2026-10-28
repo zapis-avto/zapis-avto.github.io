@@ -1,0 +1,39 @@
+{
+  "name": "IRBIS Tyres",
+  "short_name": "IRBIS Tyres",
+  "description": "Онлайн-запись: IRBIS Tyres",
+  "lang": "ru",
+  "id": "/irbis-tyres/",
+  "start_url": "/irbis-tyres/",
+  "scope": "/irbis-tyres",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030903",
+  "theme_color": "#030903",
+  "icons": [
+    {
+      "src": "/irbis-tyres/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/irbis-tyres/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/irbis-tyres/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/irbis-tyres/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Perfect-Detail — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Perfect-Detail",
+  "lang": "ru",
+  "id": "/perfect-detail/owner",
+  "start_url": "/perfect-detail/owner",
+  "scope": "/perfect-detail",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#040903",
+  "theme_color": "#040903",
+  "icons": [
+    {
+      "src": "/perfect-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/perfect-detail/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/perfect-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/perfect-detail/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

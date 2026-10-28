@@ -1,0 +1,39 @@
+{
+  "name": "Riverside detailing",
+  "short_name": "Riverside",
+  "description": "Онлайн-запись: Riverside detailing",
+  "lang": "ru",
+  "id": "/riverside-detailing/",
+  "start_url": "/riverside-detailing/",
+  "scope": "/riverside-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090305",
+  "theme_color": "#090305",
+  "icons": [
+    {
+      "src": "/riverside-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/riverside-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/riverside-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/riverside-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

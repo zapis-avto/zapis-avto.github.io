@@ -1,0 +1,39 @@
+{
+  "name": "Vag-сервис — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Vag-сервис",
+  "lang": "ru",
+  "id": "/vag-servis/owner",
+  "start_url": "/vag-servis/owner",
+  "scope": "/vag-servis",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090303",
+  "theme_color": "#090303",
+  "icons": [
+    {
+      "src": "/vag-servis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vag-servis/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/vag-servis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/vag-servis/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

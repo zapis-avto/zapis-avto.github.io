@@ -1,0 +1,39 @@
+{
+  "name": "Tm cleaning — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Tm cleaning",
+  "lang": "ru",
+  "id": "/tm-cleaning/owner",
+  "start_url": "/tm-cleaning/owner",
+  "scope": "/tm-cleaning",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030509",
+  "theme_color": "#030509",
+  "icons": [
+    {
+      "src": "/tm-cleaning/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tm-cleaning/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/tm-cleaning/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/tm-cleaning/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

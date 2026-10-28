@@ -1,0 +1,39 @@
+{
+  "name": "GPD",
+  "short_name": "GPD",
+  "description": "Онлайн-запись: GPD",
+  "lang": "ru",
+  "id": "/gpd/",
+  "start_url": "/gpd/",
+  "scope": "/gpd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060309",
+  "theme_color": "#060309",
+  "icons": [
+    {
+      "src": "/gpd/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gpd/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/gpd/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/gpd/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Okolo — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Okolo",
+  "lang": "ru",
+  "id": "/okolo/owner",
+  "start_url": "/okolo/owner",
+  "scope": "/okolo",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/okolo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/okolo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/okolo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/okolo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Detailing365 — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Detailing365",
+  "lang": "ru",
+  "id": "/detailing365/owner",
+  "start_url": "/detailing365/owner",
+  "scope": "/detailing365",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030709",
+  "theme_color": "#030709",
+  "icons": [
+    {
+      "src": "/detailing365/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing365/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/detailing365/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/detailing365/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

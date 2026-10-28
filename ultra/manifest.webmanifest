@@ -1,0 +1,39 @@
+{
+  "name": "Ultra",
+  "short_name": "Ultra",
+  "description": "Онлайн-запись: Ultra",
+  "lang": "ru",
+  "id": "/ultra/",
+  "start_url": "/ultra/",
+  "scope": "/ultra",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060903",
+  "theme_color": "#060903",
+  "icons": [
+    {
+      "src": "/ultra/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ultra/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ultra/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ultra/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

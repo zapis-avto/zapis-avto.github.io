@@ -1,0 +1,39 @@
+{
+  "name": "RobotCarWash — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: RobotCarWash",
+  "lang": "ru",
+  "id": "/robotcarwash/owner",
+  "start_url": "/robotcarwash/owner",
+  "scope": "/robotcarwash",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030907",
+  "theme_color": "#030907",
+  "icons": [
+    {
+      "src": "/robotcarwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/robotcarwash/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/robotcarwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/robotcarwash/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

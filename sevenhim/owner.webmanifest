@@ -1,0 +1,39 @@
+{
+  "name": "Sevenhim — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Sevenhim",
+  "lang": "ru",
+  "id": "/sevenhim/owner",
+  "start_url": "/sevenhim/owner",
+  "scope": "/sevenhim",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030309",
+  "theme_color": "#030309",
+  "icons": [
+    {
+      "src": "/sevenhim/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sevenhim/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/sevenhim/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sevenhim/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

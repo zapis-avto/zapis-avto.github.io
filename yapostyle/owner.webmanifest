@@ -1,0 +1,39 @@
+{
+  "name": "YapoStyle — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: YapoStyle",
+  "lang": "ru",
+  "id": "/yapostyle/owner",
+  "start_url": "/yapostyle/owner",
+  "scope": "/yapostyle",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030904",
+  "theme_color": "#030904",
+  "icons": [
+    {
+      "src": "/yapostyle/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/yapostyle/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/yapostyle/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/yapostyle/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

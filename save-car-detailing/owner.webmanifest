@@ -1,0 +1,39 @@
+{
+  "name": "Save car detailing — кабинет",
+  "short_name": "Кабинет",
+  "description": "Записи и настройки: Save car detailing",
+  "lang": "ru",
+  "id": "/save-car-detailing/owner",
+  "start_url": "/save-car-detailing/owner",
+  "scope": "/save-car-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030905",
+  "theme_color": "#030905",
+  "icons": [
+    {
+      "src": "/save-car-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/save-car-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/save-car-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/save-car-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

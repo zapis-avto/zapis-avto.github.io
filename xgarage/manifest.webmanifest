@@ -1,0 +1,39 @@
+{
+  "name": "XGarage",
+  "short_name": "XGarage",
+  "description": "Онлайн-запись: XGarage",
+  "lang": "ru",
+  "id": "/xgarage/",
+  "start_url": "/xgarage/",
+  "scope": "/xgarage",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050309",
+  "theme_color": "#050309",
+  "icons": [
+    {
+      "src": "/xgarage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/xgarage/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/xgarage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/xgarage/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

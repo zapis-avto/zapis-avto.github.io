@@ -1,0 +1,39 @@
+{
+  "name": "Crystal",
+  "short_name": "Crystal",
+  "description": "Онлайн-запись: Crystal",
+  "lang": "ru",
+  "id": "/crystal-2/",
+  "start_url": "/crystal-2/",
+  "scope": "/crystal-2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080903",
+  "theme_color": "#080903",
+  "icons": [
+    {
+      "src": "/crystal-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/crystal-2/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/crystal-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/crystal-2/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

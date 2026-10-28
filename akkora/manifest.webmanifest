@@ -1,0 +1,39 @@
+{
+  "name": "Akkora",
+  "short_name": "Akkora",
+  "description": "Онлайн-запись: Akkora",
+  "lang": "ru",
+  "id": "/akkora/",
+  "start_url": "/akkora/",
+  "scope": "/akkora",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090403",
+  "theme_color": "#090403",
+  "icons": [
+    {
+      "src": "/akkora/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/akkora/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/akkora/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/akkora/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

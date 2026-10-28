@@ -1,0 +1,39 @@
+{
+  "name": "Ov detailing",
+  "short_name": "Ov detailing",
+  "description": "Онлайн-запись: Ov detailing",
+  "lang": "ru",
+  "id": "/ov-detailing/",
+  "start_url": "/ov-detailing/",
+  "scope": "/ov-detailing",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#090603",
+  "theme_color": "#090603",
+  "icons": [
+    {
+      "src": "/ov-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ov-detailing/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/ov-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ov-detailing/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
